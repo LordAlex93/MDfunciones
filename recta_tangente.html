@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>Funciones Lineales | Repaso de Funciones </title>
+<title>Recta tangente | Repaso de Funciones </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="Alejandro M" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
@@ -16,16 +16,16 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site exe-auto-math" id="exe-node-12"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site exe-auto-math" id="exe-node-27"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Repaso de Funciones</div></header>
 <nav id="siteNav">
 <ul>
    <li><a href="index.html" class="daddy main-node">Bloque de Funciones - Matemáticas aplicadas a las Ciencias Sociales II</a></li>
-   <li class="current-page-parent"><a href="concepto_de_funcin.html" class="current-page-parent daddy">Concepto de función</a>
-   <ul>
-      <li id="active"><a href="funciones_lineales.html" class="active no-ch">Funciones Lineales</a></li>
+   <li><a href="concepto_de_funcin.html" class="daddy">Concepto de función</a>
+   <ul class="other-section">
+      <li><a href="funciones_lineales.html" class="no-ch">Funciones Lineales</a></li>
       <li><a href="funciones_polinmicas.html" class="no-ch">Funciones Polinómicas</a></li>
       <li><a href="funciones_racionales.html" class="no-ch">Funciones Racionales</a></li>
       <li><a href="funciones_radicales.html" class="no-ch">Funciones Radicales</a></li>
@@ -58,9 +58,9 @@
       <li><a href="autoevaluacin0.html" class="no-ch">Autoevaluación</a></li>
    </ul>
    </li>
-   <li><a href="derivacin.html" class="daddy">Derivación</a>
-   <ul class="other-section">
-      <li><a href="recta_tangente.html" class="no-ch">Recta tangente</a></li>
+   <li class="current-page-parent"><a href="derivacin.html" class="current-page-parent daddy">Derivación</a>
+   <ul>
+      <li id="active"><a href="recta_tangente.html" class="active no-ch">Recta tangente</a></li>
       <li><a href="ejercicios1.html" class="no-ch">Ejercicios</a></li>
    </ul>
    </li>
@@ -69,24 +69,21 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="concepto_de_funcin.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="funciones_polinmicas.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="derivacin.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="ejercicios1.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">Funciones Lineales</h1></header>
-<article class="iDevice_wrapper FreeTextIdevice" id="id21">
+<header id="nodeDecoration"><h1 id="nodeTitle">Recta tangente</h1></header>
+<article class="iDevice_wrapper FreeTextIdevice" id="id64">
 <div class="iDevice emphasis0">
-<div id="ta21_85" class="block iDevice_content">
-<p>Sea \(f\,:\,\mathbb{R}\rightarrow\mathbb{R}\). Diremos que \(f\) es una <strong>función lineal</strong> o función polinómica de primer grado si \(f\) tiene la siguiente expresión:<br />\[<br />f(x)=m\cdot x+n<br />\]<br />Donde \(m\) denota la pendiente de la recta y \(n\) la ordenada en el origen. Esta función representa una recta en el plano.</p>
-<p>El dominio de \(f\) es \(\text{Dom}(f)=\mathbb{R}\).</p>
-<p>Estas también las podemos ver de la forma Punto-Pendiente de la ecuación de una recta:<br />\[<br />y=y_{0}+m(x-x_{0})<br />\]</p>
-<p>Esta ecuación nos será útil en un concepto que veremos posteriormente cuando definamos la ecuación de la recta tangente a una función en un punto.</p>
-<h4>Ejemplo gráfico de funciones lineales:</h4>
-<figure class="exe-figure exe-image position-center" style="width: 582px;"><img src="Lineales.svg" alt="" width="582" height="300" />
-<figcaption class="figcaption"><span class="author">Alejandro M</span>. <span class="title"><em>Representación realizada con Mathematica</em></span></figcaption>
-</figure>
-<p></p>
+<div id="ta64_85" class="block iDevice_content">
+<p>La pendiente de la <strong>recta tangente</strong> a la gráfica de \( y = f(x) \) en el punto \( (a, f(a)) \) es igual a \( f'(a) \). Por tanto, la ecuación de la recta tangente es:</p>
+<p>\[ y = f(a) + f'(a) \cdot (x - a) \]</p>
+<p>Es muy importante comprender que el concepto de tangencia se da en un punto, por ello siempre requerimos un punto y una función. Otra forma en la que podemos escribir la ecuación es, de una forma más práctica, considerar \(f\) y el punto \((x_0,f(x_0))\), nos queda de la forma:</p>
+<p>\[y=f(x_0)+f'(x_0)(x-x_0)\]</p>
+<p>A partir de la recta tangente, también se nos puede pedir calcular la <strong>recta normal</strong> a una función en un punto. Esta recta es perpendicular (forma un ángulo de 90º con respecto a la recta tangente) y se calcula con la siguiente expresión:</p>
+<p>\[y=f(x_0)-\dfrac{1}{f'(x_0)}(x-x_0)\]</p>
 </div>
 </div>
 </article>
@@ -97,7 +94,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="concepto_de_funcin.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="funciones_polinmicas.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="derivacin.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="ejercicios1.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>
