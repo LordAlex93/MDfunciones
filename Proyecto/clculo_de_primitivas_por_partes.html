@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="es">
+<head>
+<link rel="stylesheet" type="text/css" href="base.css" />
+<link rel="stylesheet" type="text/css" href="content.css" />
+<link rel="stylesheet" type="text/css" href="nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Cálculo de primitivas por partes | Repaso de Funciones </title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="author" content="Alejandro Muñoz" />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+<meta name="generator" content="eXeLearning 2.9 - exelearning.net" />
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="exe_jquery.js"></script>
+<script type="text/javascript" src="common_i18n.js"></script>
+<script type="text/javascript" src="common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="exe-web-site exe-search-bar exe-auto-math" id="exe-node-43"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<header id="header" ><div id="headerContent">Repaso de Funciones</div></header>
+<nav id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">Bloque de Funciones - Matemáticas aplicadas a las Ciencias Sociales II</a></li>
+   <li><a href="concepto_de_funcin.html" class="daddy">Concepto de función</a>
+   <ul class="other-section">
+      <li><a href="funciones_lineales.html" class="no-ch">Funciones Lineales</a></li>
+      <li><a href="funciones_polinmicas.html" class="no-ch">Funciones Polinómicas</a></li>
+      <li><a href="funciones_racionales.html" class="no-ch">Funciones Racionales</a></li>
+      <li><a href="funciones_radicales.html" class="no-ch">Funciones Radicales</a></li>
+      <li><a href="funciones_exponenciales.html" class="no-ch">Funciones Exponenciales</a></li>
+      <li><a href="funciones_logartmicas.html" class="no-ch">Funciones Logarítmicas</a></li>
+      <li><a href="funciones_a_trozos.html" class="no-ch">Funciones a trozos</a></li>
+      <li><a href="composicin_de_funciones.html" class="no-ch">Composición de funciones</a></li>
+      <li><a href="funcin_inversa.html" class="no-ch">Función Inversa</a></li>
+      <li><a href="ejercicios.html" class="no-ch">Ejercicios</a></li>
+      <li><a href="autoevaluacin.html" class="no-ch">Autoevaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="lmites_y_continuidad.html" class="daddy">Límites y Continuidad</a>
+   <ul class="other-section">
+      <li><a href="lmites.html" class="daddy">Límites</a>
+      <ul class="other-section">
+         <li><a href="propiedades.html" class="no-ch">Propiedades</a></li>
+         <li><a href="lmites_en_el_infinito_de_funciones_elementales.html" class="no-ch">Límites en el infinito de funciones elementales</a></li>
+         <li><a href="indeterminaciones.html" class="no-ch">Indeterminaciones</a></li>
+         <li><a href="asntotas.html" class="no-ch">Asíntotas</a></li>
+         <li><a href="calculadora_de_lmites.html" class="no-ch">Calculadora de límites</a></li>
+      </ul>
+      </li>
+      <li><a href="continuidad.html" class="daddy">Continuidad</a>
+      <ul class="other-section">
+         <li><a href="operaciones_con_funciones_continuas.html" class="no-ch">Operaciones con funciones continuas</a></li>
+         <li><a href="tipos_de_discontinuidad.html" class="no-ch">Tipos de discontinuidad</a></li>
+      </ul>
+      </li>
+      <li><a href="ejercicios0.html" class="no-ch">Ejercicios</a></li>
+      <li><a href="autoevaluacin0.html" class="no-ch">Autoevaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="derivacin.html" class="daddy">Derivación</a>
+   <ul class="other-section">
+      <li><a href="reglas_de_derivacin.html" class="no-ch">Reglas de derivación</a></li>
+      <li><a href="recta_tangente.html" class="no-ch">Recta tangente</a></li>
+      <li><a href="aplicaciones_de_la_derivada.html" class="no-ch">Aplicaciones de la derivada</a></li>
+      <li><a href="regla_de_lhpital.html" class="no-ch">Regla de L'Hôpital</a></li>
+      <li><a href="representacin_grfica_de_funciones.html" class="no-ch">Representación gráfica de funciones</a></li>
+      <li><a href="calculadora_de_derivadas.html" class="no-ch">Calculadora de derivadas</a></li>
+      <li><a href="ejercicios1.html" class="no-ch">Ejercicios</a></li>
+      <li><a href="autoevaluacin1.html" class="no-ch">Autoevaluación</a></li>
+   </ul>
+   </li>
+   <li class="current-page-parent"><a href="integracin.html" class="current-page-parent daddy">Integración</a>
+   <ul>
+      <li><a href="frmulas_de_integracin_de_funciones_elementales.html" class="no-ch">Fórmulas de integración de funciones elementales</a></li>
+      <li><a href="integrales_definidas.html" class="no-ch">Integrales definidas</a></li>
+      <li id="active"><a href="clculo_de_primitivas_por_partes.html" class="active no-ch">Cálculo de primitivas por partes</a></li>
+      <li><a href="clculo_de_primitivas_por_cambio_de_variables.html" class="no-ch">Cálculo de primitivas por cambio de variables</a></li>
+      <li><a href="clculo_de_primitivas_de_funciones_racionales.html" class="no-ch">Cálculo de primitivas de funciones racionales</a></li>
+      <li><a href="calculadora_de_integrales.html" class="no-ch">Calculadora de integrales</a></li>
+      <li><a href="ejercicios2.html" class="no-ch">Ejercicios</a></li>
+      <li><a href="autoevaluacin2.html" class="no-ch">Autoevaluación</a></li>
+   </ul>
+   </li>
+   <li><a href="autoevaluacin3.html" class="no-ch">Autoevaluación</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="integrales_definidas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Página <strong>38</strong> de <strong>44</strong></span> <span class="sep">| </span><a href="clculo_de_primitivas_por_cambio_de_variables.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<div id="main-wrapper">
+<section id="main">
+<header id="nodeDecoration"><h1 id="nodeTitle">Cálculo de primitivas por partes</h1></header>
+<article class="iDevice_wrapper FreeTextIdevice" id="id76">
+<div class="iDevice emphasis0">
+<div id="ta76_85" class="block iDevice_content">
+<p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async=""></script>
+</p>
+<section>
+<p>El método de <strong>cálculo de primitivas por partes</strong> (o de integración por partes como se suele decir) es un procedimiento que se basa en la fórmula de la derivada del producto de dos funciones derivables.</p>
+<div><strong>Teorema:</strong>
+<p>Sean \( u \) y \( v \) dos funciones que tienen derivada continua en un intervalo \( I \). Entonces</p>
+<p style="text-align: center;">\[ \int u(x) \cdot v'(x) \, dx = u(x) \cdot v(x) - \int v(x) \cdot u'(x) \, dx \]</p>
+</div>
+<p>Como consecuencia de la Regla de Barrow se tiene el siguiente corolario.</p>
+<div><strong>Corolario (Fórmula de integración por partes):</strong>
+<p>Sean \( u \) y \( v \) dos funciones con derivada continua en \( [a, b] \). Entonces</p>
+<p style="text-align: center;">\[ \int_{a}^{b} u(x) \cdot v'(x) \, dx = u(b) \cdot v(b) - u(a) \cdot v(a) - \int_{a}^{b} v(x) \cdot u'(x) \, dx \]</p>
+</div>
+<div><strong>Nota:</strong>
+<p>Hay que tener en cuenta que esta técnica la utilizamos para el cálculo de primitivas no inmediatas con lo que hay que buscar una elección de \( u(x) \) y \( v'(x) \) que sea “sencillo”, es decir, una \( v'(x) \) cuya primitiva no sea excesivamente complicada de hallar y una \( u(x) \) que nos “facilite” el cálculo. No obstante, hay algunas reglas útiles la mayoría de las veces para elegir \( u(x) \):</p>
+<p style="text-align: center;">Logarítmicas \( \rightarrow \) Algebraicas \( \rightarrow \) Trigonométricas \( \rightarrow \) Exponenciales</p>
+<p>Hacemos la siguiente tabla:</p>
+<p style="text-align: center;">\[ \begin{cases} u(x)=f(x) \rightarrow &amp; u'(x)=f'(x)\\ v'(x)=g(x) \rightarrow &amp; v(x)=\int g(x) \, dx \end{cases} \]</p>
+<p>Y sustituimos en nuestra primitiva original:</p>
+<p style="text-align: center;">\[ \int f(x) \cdot g(x) \, dx = f(x) \cdot \int g(x) \, dx - \int \left( \int g(x) \, dx \right) \cdot f'(x) \, dx \]</p>
+<p>Repetiremos este proceso hasta que podamos concluir el cálculo de la primitiva.</p>
+</div>
+<div><strong>Ejemplo:</strong>
+<p style="text-align: center;">\[ \int \log(x) \, dx \]</p>
+<p>Algunas veces da la impresión de que no tenemos el producto \( u(x) \cdot v'(x) \), como en este caso, que solo aparece una función \( \log(x) \). Siempre podemos tomar \( v'(x)=1 \). Veamos:</p>
+<p style="text-align: center;">\[ \int \log(x) \, dx \underset{*}{=} x \log(x) - \int 1 \, dx = x \log(x) - x \]</p>
+<p style="text-align: center;">\[ *\begin{cases} u(x)=\log(x) \rightarrow &amp; u'(x)=\frac{1}{x}\\ v'(x)=1 \rightarrow &amp; v(x)=x \end{cases} \]</p>
+</div>
+</section>
+<p></p>
+</div>
+</div>
+</article>
+<div id="packageLicense" class="cc cc-by-nc-sa">
+<p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="integrales_definidas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Página <strong>38</strong> de <strong>44</strong></span> <span class="sep">| </span><a href="clculo_de_primitivas_por_cambio_de_variables.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+</div>
+<script type="text/javascript" src="_simplepoint_js.js"></script></body></html>
