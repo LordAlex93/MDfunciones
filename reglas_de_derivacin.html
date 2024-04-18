@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>Funciones a trozos | Repaso de Funciones </title>
+<title>Reglas de derivación | Repaso de Funciones </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="Alejandro Muñoz" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
@@ -16,22 +16,22 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site exe-search-bar exe-auto-math" id="exe-node-18"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site exe-search-bar exe-auto-math" id="exe-node-36"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Repaso de Funciones</div></header>
 <nav id="siteNav">
 <ul>
    <li><a href="index.html" class="daddy main-node">Bloque de Funciones - Matemáticas aplicadas a las Ciencias Sociales II</a></li>
-   <li class="current-page-parent"><a href="concepto_de_funcin.html" class="current-page-parent daddy">Concepto de función</a>
-   <ul>
+   <li><a href="concepto_de_funcin.html" class="daddy">Concepto de función</a>
+   <ul class="other-section">
       <li><a href="funciones_lineales.html" class="no-ch">Funciones Lineales</a></li>
       <li><a href="funciones_polinmicas.html" class="no-ch">Funciones Polinómicas</a></li>
       <li><a href="funciones_racionales.html" class="no-ch">Funciones Racionales</a></li>
       <li><a href="funciones_radicales.html" class="no-ch">Funciones Radicales</a></li>
       <li><a href="funciones_exponenciales.html" class="no-ch">Funciones Exponenciales</a></li>
       <li><a href="funciones_logartmicas.html" class="no-ch">Funciones Logarítmicas</a></li>
-      <li id="active"><a href="funciones_a_trozos.html" class="active no-ch">Funciones a trozos</a></li>
+      <li><a href="funciones_a_trozos.html" class="no-ch">Funciones a trozos</a></li>
       <li><a href="composicin_de_funciones.html" class="no-ch">Composición de funciones</a></li>
       <li><a href="funcin_inversa.html" class="no-ch">Función Inversa</a></li>
       <li><a href="ejercicios.html" class="no-ch">Ejercicios</a></li>
@@ -59,9 +59,9 @@
       <li><a href="autoevaluacin0.html" class="no-ch">Autoevaluación</a></li>
    </ul>
    </li>
-   <li><a href="derivacin.html" class="daddy">Derivación</a>
-   <ul class="other-section">
-      <li><a href="reglas_de_derivacin.html" class="no-ch">Reglas de derivación</a></li>
+   <li class="current-page-parent"><a href="derivacin.html" class="current-page-parent daddy">Derivación</a>
+   <ul>
+      <li id="active"><a href="reglas_de_derivacin.html" class="active no-ch">Reglas de derivación</a></li>
       <li><a href="recta_tangente.html" class="no-ch">Recta tangente</a></li>
       <li><a href="aplicaciones_de_la_derivada.html" class="no-ch">Aplicaciones de la derivada</a></li>
       <li><a href="regla_de_lhpital.html" class="no-ch">Regla de L'Hôpital</a></li>
@@ -88,17 +88,37 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="funciones_logartmicas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Página <strong>9</strong> de <strong>44</strong></span> <span class="sep">| </span><a href="composicin_de_funciones.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="derivacin.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Página <strong>27</strong> de <strong>44</strong></span> <span class="sep">| </span><a href="recta_tangente.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">Funciones a trozos</h1></header>
-<article class="iDevice_wrapper FreeTextIdevice" id="id28">
+<header id="nodeDecoration"><h1 id="nodeTitle">Reglas de derivación</h1></header>
+<article class="iDevice_wrapper FreeTextIdevice" id="id65">
 <div class="iDevice emphasis0">
-<div id="ta28_85" class="block iDevice_content">
-<p>Sea \(f\,:\,\mathbb{R}\rightarrow\mathbb{R}\). Diremos que \(f\) es una <strong>función a trozos</strong> si \(f\) tiene la siguiente<br />expresión: <br />\[<br />f(x)=\begin{cases}<br />f_{1}(x) &amp; x\in \text{Dom}(f_{1})\\<br />\vdots &amp; \vdots\\<br />f_{n}(x) &amp; x\in \text{Dom}(f_{n})<br />\end{cases}<br />\]<br />es decir, \(f\) tendrá una expresión que varía según el valor \(x\) que tomemos. Podríamos decir que construimos la función \(f\) a partir de funciones \(f_{i}\) y \[\text{Dom}(f)=\text{Dom}(f_{1})\cup...\cup \text{Dom}(f_{n}).\]</p>
-<p>Ojo, \(\text{Dom}(f_{i})\cap \text{Dom}(f_{j})=\emptyset\) (\(i\neq j\)), puesto que si definimos dos funciones distintas en el mismo dominio falla la definición de función.</p>
+<div id="ta65_85" class="block iDevice_content">
+<p></p>
+<h5>Derivada de una suma de funciones:</h5>
+<p>La derivada de una suma de funciones es la suma de las derivadas de cada una. Es decir:</p>
+<p style="text-indent: 2em;">\[(f + g)'(x) = f'(x) + g'(x)\]</p>
+<h5>Derivada de una función multiplicada por una constante:</h5>
+<p>La derivada de una función multiplicada por una constante es igual a la constante por la derivada de la función. En otras palabras, si \(f(x) = c·g(x)\), entonces \(f'(x) = c·g'(x)\).</p>
+<h5>Derivada del producto de dos funciones:</h5>
+<p>La derivada del producto de dos funciones es igual al producto de la derivada de la primera función por la segunda función sin derivar más el producto de la primera función sin derivar por la derivada de la segunda función:</p>
+<p style="text-indent: 2em;">\[(f · g)'(x) = f'(x) · g(x) + f(x) · g'(x)\]</p>
+<h5>Derivada del cociente de dos funciones:</h5>
+<p>La derivada del cociente de dos funciones es igual a la derivada del numerador por el denominador sin derivar menos el numerador sin derivar por la derivada del denominador, divididos por el cuadrado del denominador:</p>
+<p style="text-indent: 2em;">\[\left(\frac{f}{g}\right)'(x) = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2}\]</p>
+<h5>Derivada de la función potencial:</h5>
+<p>La derivada de la función \(f(x) = (g(x))^k\), para cualquier valor numérico de \(k\), es:</p>
+<p style="text-indent: 2em;">\[f'(x) = g'(x) \cdot k \cdot (g(x))^{k-1}\]</p>
+<h5>Derivada de la función logaritmo:</h5>
+<p>Si \(f(x) = \log_a(g(x))\) entonces:</p>
+<p style="text-indent: 2em;">\[f'(x) = \frac{1}{ \ln(a)}\cdot \frac{g'(x)}{g(x)}\]</p>
+<h5>Derivada de la función exponencial:</h5>
+<p>Si \(f(x) = a^{g(x)}\) entonces:</p>
+<p style="text-indent: 2em;">\[f'(x) = g'(x) \cdot \ln(a)\,a^{g(x)}\]</p>
+<p></p>
 </div>
 </div>
 </article>
@@ -109,7 +129,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="funciones_logartmicas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Página <strong>9</strong> de <strong>44</strong></span> <span class="sep">| </span><a href="composicin_de_funciones.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="derivacin.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><span class="page-counter">Página <strong>27</strong> de <strong>44</strong></span> <span class="sep">| </span><a href="recta_tangente.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>
