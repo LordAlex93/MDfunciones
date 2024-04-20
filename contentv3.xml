@@ -530,7 +530,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="329"></int>
+                       <int value="335"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -544,7 +544,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="21_85.16"></unicode>
+                     <unicode value="21_85.17"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="13">
                       <dictionary>
@@ -555,7 +555,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Lineales.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpWIQrnI/Lineales.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpspOhzJ/Lineales.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="cf7d5e19dc60a16ab6159205830ec333"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -584,7 +584,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="17"></int>
+                <int value="18"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="12"></reference>
                </dictionary>
@@ -712,7 +712,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="333"></int>
+                       <int value="339"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -726,7 +726,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="22_85.16"></unicode>
+                     <unicode value="22_85.17"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="17">
                       <dictionary>
@@ -737,7 +737,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Polinomicas.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpWIQrnI/Polinomicas.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpspOhzJ/Polinomicas.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="e493f7f5a0760d16a88cc8542dc5b4b2"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -766,7 +766,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="17"></int>
+                <int value="18"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="16"></reference>
                </dictionary>
@@ -1078,7 +1078,7 @@ ser ambiguas."></unicode>
                           <instance class="exe.engine.field.TextField">
                            <dictionary>
                             <string role="key" value="_id"></string>
-                            <int value="331"></int>
+                            <int value="337"></int>
                             <string role="key" value="_idevice"></string>
                             <none></none>
                             <string role="key" value="_instruc"></string>
@@ -1092,7 +1092,7 @@ ser ambiguas."></unicode>
                            </dictionary>
                           </instance>
                           <string role="key" value="_id"></string>
-                          <unicode value="34_294.5"></unicode>
+                          <unicode value="34_294.6"></unicode>
                           <string role="key" value="_imageResource"></string>
                           <instance class="exe.engine.resource.Resource" reference="33">
                            <dictionary>
@@ -1103,7 +1103,7 @@ ser ambiguas."></unicode>
                             <string role="key" value="_storageName"></string>
                             <string value="parabola.svg"></string>
                             <string role="key" value="_userName"></string>
-                            <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpWIQrnI/parabola.svg"></string>
+                            <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpspOhzJ/parabola.svg"></string>
                             <string role="key" value="checksum"></string>
                             <string value="0254cfb3a3029e7dfa5292e109dece1e"></string>
                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1132,7 +1132,7 @@ ser ambiguas."></unicode>
                      <string role="key" value="intlinks_to_anchors"></string>
                      <dictionary></dictionary>
                      <string role="key" value="nextImageId"></string>
-                     <int value="6"></int>
+                     <int value="7"></int>
                      <string role="key" value="parentNode"></string>
                      <reference key="20"></reference>
                     </dictionary>
@@ -1624,7 +1624,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="332"></int>
+                       <int value="338"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -1638,7 +1638,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="23_85.12"></unicode>
+                     <unicode value="23_85.13"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="37">
                       <dictionary>
@@ -1649,7 +1649,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Racionales.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpWIQrnI/Racionales.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpspOhzJ/Racionales.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="fd6554924fe48c48b8a596358828c500"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1678,7 +1678,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="13"></int>
+                <int value="14"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="36"></reference>
                </dictionary>
@@ -1929,7 +1929,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="328"></int>
+                       <int value="334"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -1943,7 +1943,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="25_85.16"></unicode>
+                     <unicode value="25_85.17"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="44">
                       <dictionary>
@@ -1954,7 +1954,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Exponenciales.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpWIQrnI/Exponenciales.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpspOhzJ/Exponenciales.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="7bd3b60dad8474ad05a4243d4943d605"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1983,7 +1983,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="17"></int>
+                <int value="18"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="43"></reference>
                </dictionary>
@@ -2484,7 +2484,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="330"></int>
+                       <int value="336"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -2498,7 +2498,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="30_85.12"></unicode>
+                     <unicode value="30_85.13"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="57">
                       <dictionary>
@@ -2509,7 +2509,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Inversas.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpWIQrnI/Inversas.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpspOhzJ/Inversas.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="9f918973c4ffa291e6b0cb0ba1ba585c"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2538,7 +2538,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="13"></int>
+                <int value="14"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="56"></reference>
                </dictionary>
@@ -7753,7 +7753,7 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="162">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Ejercicios de repaso del bloque"></unicode>
+           <unicode value="Ejercicios de repaso de la parte de derivación"></unicode>
            <string role="key" value="instructionsForLearners"></string>
            <instance class="exe.engine.field.TextAreaField" reference="163">
             <dictionary>
@@ -7774,7 +7774,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="class_"></string>
              <string value="block instructions"></string>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;Escribe en los huecos las soluciones numéricas de las preguntas. En caso de tener más de cuatro cifras decimales redondearemos a partir de la cuarta.&lt;/p&gt;"></unicode>
+             <unicode content="true" value="&lt;p&gt;Escribe en los huecos las soluciones numéricas de las preguntas.&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7817,7 +7817,22 @@ completed. Default text will be entered if there are no changes to this field.
 &lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\)  &lt;u&gt;1&lt;/u&gt;  , AH: \(y=\)  &lt;u&gt;1&lt;/u&gt;  .&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Escriba su contenido...&lt;/p&gt;
+&lt;p&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/p&gt;
+&lt;p&gt;Solución: \(f'(-1)=\)  &lt;u&gt;-4&lt;/u&gt;     y   \(g'(0)=\)  &lt;u&gt;-2&lt;/u&gt; &lt;/p&gt;
+&lt;h2&gt;Ejercicio 3&lt;/h2&gt;
+&lt;p&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp; \text{si } x &lt; 0 \\ -x^2 + b &amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/p&gt;
+&lt;p&gt;Solución: \(a=\)  &lt;u&gt;0&lt;/u&gt;     y   \(b=\)  &lt;u&gt;5&lt;/u&gt; &lt;/p&gt;
+&lt;h2&gt;Ejercicio 4&lt;/h2&gt;
+&lt;p&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp; \text{si } x &lt; -1 \\ -x^2 + b(x - 1) &amp; \text{si } x \geq -1 \end{cases} \]&lt;/p&gt;
+&lt;p&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/p&gt;
+&lt;p&gt;Solución: \(a=\)  &lt;u&gt;18&lt;/u&gt;    y   \(b=\)  &lt;u&gt;7&lt;/u&gt;  .&lt;/p&gt;
+&lt;p&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/p&gt;
+&lt;p&gt;Solución: \(y=\)  &lt;u&gt;1/2&lt;/u&gt;  \(x\) +  &lt;u&gt;-6&lt;/u&gt;  . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/p&gt;
+&lt;h2&gt;Ejercicio 5&lt;/h2&gt;
+&lt;p&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/p&gt;
+&lt;p&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/p&gt;
+&lt;p&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/p&gt;
+&lt;p&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="_id"></string>
@@ -7853,7 +7868,22 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\) &lt;u&gt;1&lt;/u&gt; , AH: \(y=\) &lt;u&gt;1&lt;/u&gt; .&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Escriba su contenido...&lt;/p&gt;
+&lt;p&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/p&gt;
+&lt;p&gt;Solución: \(f'(-1)=\) &lt;u&gt;-4&lt;/u&gt;    y   \(g'(0)=\) &lt;u&gt;-2&lt;/u&gt;&lt;/p&gt;
+&lt;h2&gt;Ejercicio 3&lt;/h2&gt;
+&lt;p&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp;amp; \text{si } x &amp;lt; 0 \\ -x^2 + b &amp;amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/p&gt;
+&lt;p&gt;Solución: \(a=\) &lt;u&gt;0&lt;/u&gt;    y   \(b=\) &lt;u&gt;5&lt;/u&gt;&lt;/p&gt;
+&lt;h2&gt;Ejercicio 4&lt;/h2&gt;
+&lt;p&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp;amp; \text{si } x &amp;lt; -1 \\ -x^2 + b(x - 1) &amp;amp; \text{si } x \geq -1 \end{cases} \]&lt;/p&gt;
+&lt;p&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/p&gt;
+&lt;p&gt;Solución: \(a=\) &lt;u&gt;18&lt;/u&gt;   y   \(b=\) &lt;u&gt;7&lt;/u&gt; .&lt;/p&gt;
+&lt;p&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/p&gt;
+&lt;p&gt;Solución: \(y=\) &lt;u&gt;1/2&lt;/u&gt; \(x\) + &lt;u&gt;-6&lt;/u&gt; . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/p&gt;
+&lt;h2&gt;Ejercicio 5&lt;/h2&gt;
+&lt;p&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/p&gt;
+&lt;p&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/p&gt;
+&lt;p&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/p&gt;
+&lt;p&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.ClozeField.persistenceVersion"></string>
@@ -7915,7 +7945,54 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value=" .&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Escriba su contenido...&lt;/p&gt;
+&lt;p&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/p&gt;
+&lt;p&gt;Solución: \(f'(-1)=\) "></unicode>
+               <unicode value="-4"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="    y   \(g'(0)=\) "></unicode>
+               <unicode value="-2"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/p&gt;
+&lt;h2&gt;Ejercicio 3&lt;/h2&gt;
+&lt;p&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp; \text{si } x &lt; 0 \\ -x^2 + b &amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/p&gt;
+&lt;p&gt;Solución: \(a=\) "></unicode>
+               <unicode value="0"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="    y   \(b=\) "></unicode>
+               <unicode value="5"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/p&gt;
+&lt;h2&gt;Ejercicio 4&lt;/h2&gt;
+&lt;p&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp; \text{si } x &lt; -1 \\ -x^2 + b(x - 1) &amp; \text{si } x \geq -1 \end{cases} \]&lt;/p&gt;
+&lt;p&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/p&gt;
+&lt;p&gt;Solución: \(a=\) "></unicode>
+               <unicode value="18"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="   y   \(b=\) "></unicode>
+               <unicode value="7"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value=" .&lt;/p&gt;
+&lt;p&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/p&gt;
+&lt;p&gt;Solución: \(y=\) "></unicode>
+               <unicode value="1/2"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value=" \(x\) + "></unicode>
+               <unicode value="-6"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value=" . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/p&gt;
+&lt;h2&gt;Ejercicio 5&lt;/h2&gt;
+&lt;p&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/p&gt;
+&lt;p&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/p&gt;
+&lt;p&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/p&gt;
+&lt;p&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                <string value=""></string>
@@ -8130,7 +8207,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="152"></reference>
+  <reference key="164"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
