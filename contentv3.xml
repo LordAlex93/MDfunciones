@@ -89,7 +89,7 @@
   <string role="key" value="_loadMathEngine"></string>
   <bool value="1"></bool>
   <string role="key" value="_name"></string>
-  <unicode value="Proyecto"></unicode>
+  <unicode value="MunozAzaustre_Alejandro_Proyecto"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="116"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -162,7 +162,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="420"></int>
+                 <int value="431"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -176,7 +176,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="113_85.2"></unicode>
+               <unicode value="113_85.3"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -187,7 +187,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="Unknown-3.jpg"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/Unknown-3.jpg"></string>
+                 <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/Unknown-3.jpg"></string>
                  <string role="key" value="checksum"></string>
                  <string value="91c60233c0c40e13063ecfd939463fdb"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -216,7 +216,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="3"></int>
+          <int value="4"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -665,6 +665,8 @@ by the Creative Commons Attribution-ShareAlike 3.0 Unported License.&lt;/p&gt;">
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;main class=&quot;mw-body&quot; role=&quot;main&quot;&gt;
 &lt;p&gt;En las &lt;a href=&quot;http://es.wikipedia.org/wiki/Matem%C3%A1ticas&quot; title=&quot;Matemáticas&quot;&gt;matemáticas&lt;/a&gt;, se dice que una &lt;a href=&quot;http://es.wikipedia.org/wiki/Magnitud_(matem%C3%A1tica)&quot; title=&quot;Magnitud (matemática)&quot;&gt;magnitud&lt;/a&gt; es &lt;b&gt;función&lt;/b&gt; de otra si el valor de la primera depende del valor de la segunda. Por ejemplo, el &lt;a href=&quot;http://es.wikipedia.org/wiki/%C3%81rea&quot; title=&quot;Área&quot;&gt;área&lt;/a&gt; &lt;i&gt;A&lt;/i&gt; de un &lt;a href=&quot;http://es.wikipedia.org/wiki/C%C3%ADrculo&quot; title=&quot;Círculo&quot;&gt;círculo&lt;/a&gt; es &lt;a href=&quot;http://es.wikipedia.org/wiki/Catenaria&quot; title=&quot;Catenaria&quot;&gt;función&lt;/a&gt; de su &lt;a href=&quot;http://es.wikipedia.org/wiki/Radio_(geometr%C3%ADa)&quot; title=&quot;Radio (geometría)&quot;&gt;radio&lt;/a&gt; &lt;i&gt;r&lt;/i&gt; (el valor del área es &lt;a class=&quot;mw-redirect&quot; href=&quot;http://es.wikipedia.org/wiki/Proporcional&quot; title=&quot;Proporcional&quot;&gt;proporcional&lt;/a&gt; al &lt;a class=&quot;mw-redirect&quot; href=&quot;http://es.wikipedia.org/wiki/Cuadrado_(%C3%A1lgebra)&quot; title=&quot;Cuadrado (álgebra)&quot;&gt;cuadrado&lt;/a&gt; del radio, &lt;i&gt;A&lt;/i&gt; = &lt;i&gt;π&lt;/i&gt;·&lt;i&gt;r&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;). Del mismo modo, la duración &lt;i&gt;T&lt;/i&gt; de un viaje en tren entre dos ciudades separadas por una distancia &lt;i&gt;d&lt;/i&gt; depende de la velocidad &lt;i&gt;v&lt;/i&gt; a la que se desplace el tren (a saber, la duración es inversamente &lt;a href=&quot;http://es.wikipedia.org/wiki/Proporcionalidad&quot; title=&quot;Proporcionalidad&quot;&gt;proporcional&lt;/a&gt; a la velocidad, &lt;i&gt;T&lt;/i&gt; = &lt;i&gt;d&lt;/i&gt; / &lt;i&gt;v&lt;/i&gt;). A la primera magnitud (el área, la duración) se la denomina &lt;a href=&quot;http://es.wikipedia.org/wiki/Variable_(matem%C3%A1tica)&quot; title=&quot;Variable (matemática)&quot;&gt;variable dependiente&lt;/a&gt;, y la magnitud de la que depende (el radio y la velocidad) es la &lt;a class=&quot;mw-redirect&quot; href=&quot;http://es.wikipedia.org/wiki/Variable_independiente&quot; title=&quot;Variable independiente&quot;&gt;variable independiente&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;En &lt;a href=&quot;http://es.wikipedia.org/wiki/An%C3%A1lisis_matem%C3%A1tico&quot; title=&quot;Análisis matemático&quot;&gt;análisis matemático&lt;/a&gt;, el concepto general de &lt;b&gt;función&lt;/b&gt;, se refiere a una regla que &lt;a href=&quot;http://es.wikipedia.org/wiki/Correspondencia_matem%C3%A1tica&quot; title=&quot;Correspondencia matemática&quot;&gt;asigna&lt;/a&gt; a cada elemento de un primer conjunto un único elemento de un segundo conjunto. Las funciones son &lt;a href=&quot;http://es.wikipedia.org/wiki/Relaci%C3%B3n_matem%C3%A1tica&quot; title=&quot;Relación matemática&quot;&gt;relaciones&lt;/a&gt; entre los elementos de dos conjuntos. Por ejemplo, cada &lt;a href=&quot;http://es.wikipedia.org/wiki/N%C3%BAmero_entero&quot; title=&quot;Número entero&quot;&gt;número entero&lt;/a&gt; posee un único &lt;a class=&quot;mw-redirect&quot; href=&quot;http://es.wikipedia.org/wiki/Cuadrado_(%C3%A1lgebra)&quot; title=&quot;Cuadrado (álgebra)&quot;&gt;cuadrado&lt;/a&gt;, que resulta ser un &lt;a href=&quot;http://es.wikipedia.org/wiki/N%C3%BAmero_natural&quot; title=&quot;Número natural&quot;&gt;número natural&lt;/a&gt; (incluyendo el &lt;a href=&quot;http://es.wikipedia.org/wiki/Cero&quot; title=&quot;Cero&quot;&gt;cero&lt;/a&gt;):&lt;sup class=&quot;reference separada&quot; id=&quot;cite_ref-1&quot;&gt;&lt;a href=&quot;#cite_note-1&quot;&gt;&lt;span class=&quot;corchete-llamada&quot;&gt;[&lt;/span&gt;1&lt;span class=&quot;corchete-llamada&quot;&gt;]&lt;/span&gt;&lt;/a&gt;&lt;/sup&gt;​&lt;/p&gt;
@@ -803,7 +805,11 @@ by the Creative Commons Attribution-ShareAlike 3.0 Unported License.&lt;/p&gt;">
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;style data-mw-deduplicate=&quot;TemplateStyles:r149592108&quot;&gt;.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}&lt;/style&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -861,6 +867,8 @@ by the Creative Commons Attribution-ShareAlike 3.0 Unported License.&lt;/p&gt;">
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/main&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -1135,7 +1143,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="421"></int>
+                       <int value="432"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -1149,7 +1157,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="21_85.22"></unicode>
+                     <unicode value="21_85.23"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="22">
                       <dictionary>
@@ -1160,7 +1168,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Lineales.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/Lineales.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/Lineales.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="cf7d5e19dc60a16ab6159205830ec333"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1189,7 +1197,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="23"></int>
+                <int value="24"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="21"></reference>
                </dictionary>
@@ -1317,7 +1325,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="428"></int>
+                       <int value="440"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -1331,7 +1339,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="22_85.22"></unicode>
+                     <unicode value="22_85.23"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="26">
                       <dictionary>
@@ -1342,7 +1350,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Polinomicas.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/Polinomicas.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/Polinomicas.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="e493f7f5a0760d16a88cc8542dc5b4b2"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1371,7 +1379,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="23"></int>
+                <int value="24"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="25"></reference>
                </dictionary>
@@ -1683,7 +1691,7 @@ ser ambiguas."></unicode>
                           <instance class="exe.engine.field.TextField">
                            <dictionary>
                             <string role="key" value="_id"></string>
-                            <int value="423"></int>
+                            <int value="434"></int>
                             <string role="key" value="_idevice"></string>
                             <none></none>
                             <string role="key" value="_instruc"></string>
@@ -1697,7 +1705,7 @@ ser ambiguas."></unicode>
                            </dictionary>
                           </instance>
                           <string role="key" value="_id"></string>
-                          <unicode value="34_294.11"></unicode>
+                          <unicode value="34_294.12"></unicode>
                           <string role="key" value="_imageResource"></string>
                           <instance class="exe.engine.resource.Resource" reference="42">
                            <dictionary>
@@ -1708,7 +1716,7 @@ ser ambiguas."></unicode>
                             <string role="key" value="_storageName"></string>
                             <string value="parabola.svg"></string>
                             <string role="key" value="_userName"></string>
-                            <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/parabola.svg"></string>
+                            <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/parabola.svg"></string>
                             <string role="key" value="checksum"></string>
                             <string value="0254cfb3a3029e7dfa5292e109dece1e"></string>
                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1737,7 +1745,7 @@ ser ambiguas."></unicode>
                      <string role="key" value="intlinks_to_anchors"></string>
                      <dictionary></dictionary>
                      <string role="key" value="nextImageId"></string>
-                     <int value="12"></int>
+                     <int value="13"></int>
                      <string role="key" value="parentNode"></string>
                      <reference key="29"></reference>
                     </dictionary>
@@ -2229,7 +2237,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="427"></int>
+                       <int value="439"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -2243,7 +2251,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="23_85.18"></unicode>
+                     <unicode value="23_85.19"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="46">
                       <dictionary>
@@ -2254,7 +2262,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Racionales.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/Racionales.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/Racionales.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="fd6554924fe48c48b8a596358828c500"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2283,7 +2291,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="19"></int>
+                <int value="20"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="45"></reference>
                </dictionary>
@@ -6228,7 +6236,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="426"></int>
+                       <int value="438"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -6242,7 +6250,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="24_85.3"></unicode>
+                     <unicode value="24_85.4"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="128">
                       <dictionary>
@@ -6253,7 +6261,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="raices.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/raices.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/raices.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="374f9fa1d774f82cc52783dfefac0a76"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6282,7 +6290,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="4"></int>
+                <int value="5"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="127"></reference>
                </dictionary>
@@ -6410,7 +6418,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="419"></int>
+                       <int value="430"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -6424,7 +6432,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="25_85.22"></unicode>
+                     <unicode value="25_85.23"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="132">
                       <dictionary>
@@ -6435,7 +6443,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Exponenciales.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/Exponenciales.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/Exponenciales.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="7bd3b60dad8474ad05a4243d4943d605"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6464,7 +6472,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="23"></int>
+                <int value="24"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="131"></reference>
                </dictionary>
@@ -6592,7 +6600,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="424"></int>
+                       <int value="436"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -6606,7 +6614,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="27_85.3"></unicode>
+                     <unicode value="27_85.4"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="136">
                       <dictionary>
@@ -6617,7 +6625,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="logaritmos.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/logaritmos.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/logaritmos.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="eef43bd402611180f43ffba8b3189eb4"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6646,7 +6654,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="4"></int>
+                <int value="5"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="135"></reference>
                </dictionary>
@@ -6904,7 +6912,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="422"></int>
+                       <int value="433"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -6918,7 +6926,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="30_85.18"></unicode>
+                     <unicode value="30_85.19"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="143">
                       <dictionary>
@@ -6929,7 +6937,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Inversas.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/Inversas.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/Inversas.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="9f918973c4ffa291e6b0cb0ba1ba585c"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6958,7 +6966,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="19"></int>
+                <int value="20"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="142"></reference>
                </dictionary>
@@ -7488,7 +7496,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="429"></int>
+                       <int value="435"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -7502,7 +7510,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="64_85.0"></unicode>
+                     <unicode value="64_85.1"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="156">
                       <dictionary>
@@ -7513,7 +7521,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="tangente_funcion.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpSYfsCX.eXe/previews/allyourbase/tangente_funcion.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/tangente_funcion.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="404ab34a544a33aafff2353abbf11c74"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7542,7 +7550,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="1"></int>
+                <int value="2"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="155"></reference>
                </dictionary>
@@ -8489,32 +8497,32 @@ completed. Default text will be entered if there are no changes to this field.
                 <string role="key" value="_encodedContent"></string>
                 <unicode value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Se considera la función \[ f(x) = \begin{cases} x^2 + ax + 2 &amp; \text{si } x \leq 0 \\ \frac{x + b}{x - 1} &amp; \text{si } x &gt; 0 \end{cases} \]&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \[ f(x) = \begin{cases} x^2 + ax + 2 &amp; \text{si } x \leq 0 \\ \frac{x + b}{x - 1} &amp; \text{si } x &gt; 0 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
 &lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;
-&lt;li&gt;Halle \(a\) y \(b\) para que \(f\) sea continua y derivable en \(x=0\). \(a=\)  &lt;u&gt;1&lt;/u&gt;  &lt;span style=&quot;font-size: 10pt;&quot;&gt; y \(b=\) &lt;/span&gt;  &lt;u&gt;-2&lt;/u&gt;  &lt;span style=&quot;font-size: 0.85em;&quot;&gt; .&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a=1\) y \(b=-2\), halle la ecuación de la recta tangente a la gráfica de \(f\) en el punto de abscisa \(x=0\). \(y=\)  &lt;u&gt;2&lt;/u&gt;  +  &lt;u&gt;1&lt;/u&gt;  \( x\).&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\)  &lt;u&gt;1&lt;/u&gt;  , AH: \(y=\)  &lt;u&gt;1&lt;/u&gt;  .&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Halle \(a\) y \(b\) para que \(f\) sea continua y derivable en \(x=0\). \(a=\)  &lt;u&gt;1&lt;/u&gt;  y \(b=\)  &lt;u&gt;-2&lt;/u&gt;  .&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para \(a=1\) y \(b=-2\), halle la ecuación de la recta tangente a la gráfica de \(f\) en el punto de abscisa \(x=0\). \(y=\)  &lt;u&gt;2&lt;/u&gt;  +  &lt;u&gt;1&lt;/u&gt;  \( x\).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\)  &lt;u&gt;1&lt;/u&gt;  , AH: \(y=\)  &lt;u&gt;1&lt;/u&gt;  .&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/p&gt;
-&lt;p&gt;Solución: \(f'(-1)=\)  &lt;u&gt;-4&lt;/u&gt;     y   \(g'(0)=\)  &lt;u&gt;-2&lt;/u&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(f'(-1)=\)  &lt;u&gt;-4&lt;/u&gt;     y   \(g'(0)=\)  &lt;u&gt;-2&lt;/u&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp; \text{si } x &lt; 0 \\ -x^2 + b &amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(a=\)  &lt;u&gt;0&lt;/u&gt;     y   \(b=\)  &lt;u&gt;5&lt;/u&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp; \text{si } x &lt; 0 \\ -x^2 + b &amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(a=\)  &lt;u&gt;0&lt;/u&gt;     y   \(b=\)  &lt;u&gt;5&lt;/u&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp; \text{si } x &lt; -1 \\ -x^2 + b(x - 1) &amp; \text{si } x \geq -1 \end{cases} \]&lt;/p&gt;
-&lt;p&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(a=\)  &lt;u&gt;18&lt;/u&gt;    y   \(b=\)  &lt;u&gt;7&lt;/u&gt;  .&lt;/p&gt;
-&lt;p&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/p&gt;
-&lt;p&gt;Solución: \(y=\)  &lt;u&gt;1/2&lt;/u&gt;  \(x\) +  &lt;u&gt;-6&lt;/u&gt;  . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp; \text{si } x &lt; -1 \\ -x^2 + b(x - 1) &amp; \text{si } x \geq -1 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(a=\)  &lt;u&gt;18&lt;/u&gt;    y   \(b=\)  &lt;u&gt;7&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(y=\)  &lt;u&gt;1/2&lt;/u&gt;  \(x\) +  &lt;u&gt;-6&lt;/u&gt;  . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/p&gt;
-&lt;p&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/p&gt;
-&lt;p&gt;Solución: creciente en (  &lt;u&gt;1&lt;/u&gt;  ,  &lt;u&gt;2&lt;/u&gt;  ) y decreciente en (  &lt;u&gt;0&lt;/u&gt;  ,  &lt;u&gt;1&lt;/u&gt;  ).&lt;/p&gt;
-&lt;p&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/p&gt;
-&lt;p&gt;Solución: Debe producir \(t_0=\)  &lt;u&gt;1&lt;/u&gt;  tonelada(s), con un coste mínimo de \(f(t_0)=\)  &lt;u&gt;26000&lt;/u&gt;  euros.&lt;/p&gt;
-&lt;p&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/p&gt;
-&lt;p&gt;Solución: Con \(t_0=\)  &lt;u&gt;0&lt;/u&gt;  y un coste de \(f(t_0)=\)  &lt;u&gt;30000&lt;/u&gt;  euros.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: creciente en (  &lt;u&gt;1&lt;/u&gt;  ,  &lt;u&gt;2&lt;/u&gt;  ) y decreciente en (  &lt;u&gt;0&lt;/u&gt;  ,  &lt;u&gt;1&lt;/u&gt;  ).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Debe producir \(t_0=\)  &lt;u&gt;1&lt;/u&gt;  tonelada(s), con un coste mínimo de \(f(t_0)=\)  &lt;u&gt;26000&lt;/u&gt;  euros.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Con \(t_0=\)  &lt;u&gt;0&lt;/u&gt;  y un coste de \(f(t_0)=\)  &lt;u&gt;30000&lt;/u&gt;  euros.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="_id"></string>
@@ -8543,32 +8551,32 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                 <string role="key" value="content_w_resourcePaths"></string>
                 <unicode content="true" value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Se considera la función \[ f(x) = \begin{cases} x^2 + ax + 2 &amp;amp; \text{si } x \leq 0 \\ \frac{x + b}{x - 1} &amp;amp; \text{si } x &amp;gt; 0 \end{cases} \]&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \[ f(x) = \begin{cases} x^2 + ax + 2 &amp;amp; \text{si } x \leq 0 \\ \frac{x + b}{x - 1} &amp;amp; \text{si } x &amp;gt; 0 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
 &lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;
-&lt;li&gt;Halle \(a\) y \(b\) para que \(f\) sea continua y derivable en \(x=0\). \(a=\) &lt;u&gt;1&lt;/u&gt; &lt;span style=&quot;font-size: 10pt;&quot;&gt; y \(b=\) &lt;/span&gt; &lt;u&gt;-2&lt;/u&gt; &lt;span style=&quot;font-size: 0.85em;&quot;&gt; .&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a=1\) y \(b=-2\), halle la ecuación de la recta tangente a la gráfica de \(f\) en el punto de abscisa \(x=0\). \(y=\) &lt;u&gt;2&lt;/u&gt; + &lt;u&gt;1&lt;/u&gt; \( x\).&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\) &lt;u&gt;1&lt;/u&gt; , AH: \(y=\) &lt;u&gt;1&lt;/u&gt; .&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Halle \(a\) y \(b\) para que \(f\) sea continua y derivable en \(x=0\). \(a=\) &lt;u&gt;1&lt;/u&gt; y \(b=\) &lt;u&gt;-2&lt;/u&gt; .&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para \(a=1\) y \(b=-2\), halle la ecuación de la recta tangente a la gráfica de \(f\) en el punto de abscisa \(x=0\). \(y=\) &lt;u&gt;2&lt;/u&gt; + &lt;u&gt;1&lt;/u&gt; \( x\).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\) &lt;u&gt;1&lt;/u&gt; , AH: \(y=\) &lt;u&gt;1&lt;/u&gt; .&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/p&gt;
-&lt;p&gt;Solución: \(f'(-1)=\) &lt;u&gt;-4&lt;/u&gt;    y   \(g'(0)=\) &lt;u&gt;-2&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(f'(-1)=\) &lt;u&gt;-4&lt;/u&gt;    y   \(g'(0)=\) &lt;u&gt;-2&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp;amp; \text{si } x &amp;lt; 0 \\ -x^2 + b &amp;amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(a=\) &lt;u&gt;0&lt;/u&gt;    y   \(b=\) &lt;u&gt;5&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp;amp; \text{si } x &amp;lt; 0 \\ -x^2 + b &amp;amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(a=\) &lt;u&gt;0&lt;/u&gt;    y   \(b=\) &lt;u&gt;5&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp;amp; \text{si } x &amp;lt; -1 \\ -x^2 + b(x - 1) &amp;amp; \text{si } x \geq -1 \end{cases} \]&lt;/p&gt;
-&lt;p&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(a=\) &lt;u&gt;18&lt;/u&gt;   y   \(b=\) &lt;u&gt;7&lt;/u&gt; .&lt;/p&gt;
-&lt;p&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/p&gt;
-&lt;p&gt;Solución: \(y=\) &lt;u&gt;1/2&lt;/u&gt; \(x\) + &lt;u&gt;-6&lt;/u&gt; . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp;amp; \text{si } x &amp;lt; -1 \\ -x^2 + b(x - 1) &amp;amp; \text{si } x \geq -1 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(a=\) &lt;u&gt;18&lt;/u&gt;   y   \(b=\) &lt;u&gt;7&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(y=\) &lt;u&gt;1/2&lt;/u&gt; \(x\) + &lt;u&gt;-6&lt;/u&gt; . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/p&gt;
-&lt;p&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/p&gt;
-&lt;p&gt;Solución: creciente en ( &lt;u&gt;1&lt;/u&gt; , &lt;u&gt;2&lt;/u&gt; ) y decreciente en ( &lt;u&gt;0&lt;/u&gt; , &lt;u&gt;1&lt;/u&gt; ).&lt;/p&gt;
-&lt;p&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/p&gt;
-&lt;p&gt;Solución: Debe producir \(t_0=\) &lt;u&gt;1&lt;/u&gt; tonelada(s), con un coste mínimo de \(f(t_0)=\) &lt;u&gt;26000&lt;/u&gt; euros.&lt;/p&gt;
-&lt;p&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/p&gt;
-&lt;p&gt;Solución: Con \(t_0=\) &lt;u&gt;0&lt;/u&gt; y un coste de \(f(t_0)=\) &lt;u&gt;30000&lt;/u&gt; euros.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: creciente en ( &lt;u&gt;1&lt;/u&gt; , &lt;u&gt;2&lt;/u&gt; ) y decreciente en ( &lt;u&gt;0&lt;/u&gt; , &lt;u&gt;1&lt;/u&gt; ).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Debe producir \(t_0=\) &lt;u&gt;1&lt;/u&gt; tonelada(s), con un coste mínimo de \(f(t_0)=\) &lt;u&gt;26000&lt;/u&gt; euros.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Con \(t_0=\) &lt;u&gt;0&lt;/u&gt; y un coste de \(f(t_0)=\) &lt;u&gt;30000&lt;/u&gt; euros.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.ClozeField.persistenceVersion"></string>
@@ -8599,18 +8607,18 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                  <tuple>
                   <unicode value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Se considera la función \[ f(x) = \begin{cases} x^2 + ax + 2 &amp; \text{si } x \leq 0 \\ \frac{x + b}{x - 1} &amp; \text{si } x &gt; 0 \end{cases} \]&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \[ f(x) = \begin{cases} x^2 + ax + 2 &amp; \text{si } x \leq 0 \\ \frac{x + b}{x - 1} &amp; \text{si } x &gt; 0 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
 &lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;
-&lt;li&gt;Halle \(a\) y \(b\) para que \(f\) sea continua y derivable en \(x=0\). \(a=\) "></unicode>
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Halle \(a\) y \(b\) para que \(f\) sea continua y derivable en \(x=0\). \(a=\) "></unicode>
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" &lt;span style=&quot;font-size: 10pt;&quot;&gt; y \(b=\) &lt;/span&gt; "></unicode>
+                  <unicode value=" y \(b=\) "></unicode>
                   <unicode value="-2"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" &lt;span style=&quot;font-size: 0.85em;&quot;&gt; .&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a=1\) y \(b=-2\), halle la ecuación de la recta tangente a la gráfica de \(f\) en el punto de abscisa \(x=0\). \(y=\) "></unicode>
+                  <unicode value=" .&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para \(a=1\) y \(b=-2\), halle la ecuación de la recta tangente a la gráfica de \(f\) en el punto de abscisa \(x=0\). \(y=\) "></unicode>
                   <unicode value="2"></unicode>
                  </tuple>
                  <tuple>
@@ -8619,7 +8627,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                  </tuple>
                  <tuple>
                   <unicode value=" \( x\).&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\) "></unicode>
+&lt;li&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para \(a = 1\) y \(b = 1\), halle, si existen, las ecuaciones de las asíntotas de \(f\). AV: \(x=\) "></unicode>
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
@@ -8630,8 +8638,8 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value=" .&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/p&gt;
-&lt;p&gt;Solución: \(f'(-1)=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sean las funciones: \[ f(x) = (2x^2 - 1)^3 \cdot \ln(x^4) \] \[ g(x) = e^{-2x} + \frac{x^2}{x^2 + 1} \] Determine el valor de \(f'(-1)\) y \(g'(0)\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(f'(-1)=\) "></unicode>
                   <unicode value="-4"></unicode>
                  </tuple>
                  <tuple>
@@ -8639,10 +8647,10 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="-2"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value="&lt;/p&gt;
+                  <unicode value="&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp; \text{si } x &lt; 0 \\ -x^2 + b &amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(a=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sea la función \( f \), definida por: \[ f(x) = \begin{cases} x^2 - ax + 5 &amp; \text{si } x &lt; 0 \\ -x^2 + b &amp; \text{si } x \geq 0 \end{cases} \] Determine los valores que han de tomar \( a \) y \( b \) para que la función \( f \) sea derivable en \( x = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(a=\) "></unicode>
                   <unicode value="0"></unicode>
                  </tuple>
                  <tuple>
@@ -8650,11 +8658,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="5"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value="&lt;/p&gt;
+                  <unicode value="&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp; \text{si } x &lt; -1 \\ -x^2 + b(x - 1) &amp; \text{si } x \geq -1 \end{cases} \]&lt;/p&gt;
-&lt;p&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(a=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sea la función \[ f(x) =\begin{cases} \frac{1}{2}(ax - 12) &amp; \text{si } x &lt; -1 \\ -x^2 + b(x - 1) &amp; \text{si } x \geq -1 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Halle los valores de \( a \) y \( b \) sabiendo que la función es derivable en \( x = -1 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(a=\) "></unicode>
                   <unicode value="18"></unicode>
                  </tuple>
                  <tuple>
@@ -8662,9 +8670,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="7"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" .&lt;/p&gt;
-&lt;p&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/p&gt;
-&lt;p&gt;Solución: \(y=\) "></unicode>
+                  <unicode value=" .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Para \( a = 1 \) y \( b = -1 \) obtenga la ecuación de la recta tangente a la gráfica de la función \( f(x) \) en el punto de abscisa \( x = -2 \)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solución: \(y=\) "></unicode>
                   <unicode value="1/2"></unicode>
                  </tuple>
                  <tuple>
@@ -8672,11 +8680,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="-6"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/p&gt;
+                  <unicode value=" . (Si salen decimales, escribe en forma de fracción como 3/5)&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/p&gt;
-&lt;p&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/p&gt;
-&lt;p&gt;Solución: creciente en ( "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Los costes de producción de una empresa, en miles de euros, dependen de la cantidad de producto fabricada \(x\), medida en toneladas, según la función \(f(x) = 30 - 9x + 6x^2 - x^3\). La capacidad máxima de producción es de 2 toneladas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: creciente en ( "></unicode>
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
@@ -8692,9 +8700,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" ).&lt;/p&gt;
-&lt;p&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/p&gt;
-&lt;p&gt;Solución: Debe producir \(t_0=\) "></unicode>
+                  <unicode value=" ).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería dicho coste mínimo?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Debe producir \(t_0=\) "></unicode>
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
@@ -8702,9 +8710,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="26000"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" euros.&lt;/p&gt;
-&lt;p&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/p&gt;
-&lt;p&gt;Solución: Con \(t_0=\) "></unicode>
+                  <unicode value=" euros.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) ¿Con qué producción la empresa tiene unos costes de producción máximos?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Con \(t_0=\) "></unicode>
                   <unicode value="0"></unicode>
                  </tuple>
                  <tuple>
@@ -8712,7 +8720,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="30000"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" euros.&lt;/p&gt;
+                  <unicode value=" euros.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                   <string value=""></string>
@@ -10045,40 +10053,40 @@ completed. Default text will be entered if there are no changes to this field.
                 <string role="key" value="_encodedContent"></string>
                 <unicode value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Dada la función \( f(x) = 2(x + e^{2x}) \), calcula:&lt;/p&gt;
-&lt;p&gt;a) Los puntos de inflexión de la función \( f \), en caso de que existan.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un punto de inflexión en el punto (&lt;strong&gt;  &lt;u&gt;-&lt;/u&gt;  &lt;/strong&gt;,  &lt;u&gt;-&lt;/u&gt;  ). (En caso que no exista, escribe un - en los cuadrados).&lt;/p&gt;
-&lt;p&gt;b) La ecuación de la recta tangente a la gráfica de \( f \) en el punto de abscisa \( x = 0 \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La recta tangente tiene ecuación \(y=\)  &lt;u&gt;6&lt;/u&gt;  \(x\)+  &lt;u&gt;2&lt;/u&gt;  .&lt;/p&gt;
-&lt;p&gt;c) La función \( F(x) \) sabiendo que \( F'(x) = f(x) \) y que su gráfica pasa por el punto \( (0, 2) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\)  &lt;u&gt;1&lt;/u&gt;  \(x^2\)+  &lt;u&gt;0&lt;/u&gt;  \(x\)+  &lt;u&gt;1&lt;/u&gt;  +  &lt;u&gt;1&lt;/u&gt;  \(e^{2x}\). (En caso que algún coeficiente no aparezca, escribe \(0\) en el cuadro. También tienes que escribir \(1\) o el coeficiente con el signo negativo en caso necesario).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dada la función \( f(x) = 2(x + e^{2x}) \), calcula:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Los puntos de inflexión de la función \( f \), en caso de que existan.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un punto de inflexión en el punto (&lt;strong&gt;  &lt;u&gt;-&lt;/u&gt;  &lt;/strong&gt;,  &lt;u&gt;-&lt;/u&gt;  ). (En caso que no exista, escribe un - en los cuadrados).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) La ecuación de la recta tangente a la gráfica de \( f \) en el punto de abscisa \( x = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La recta tangente tiene ecuación \(y=\)  &lt;u&gt;6&lt;/u&gt;  \(x\)+  &lt;u&gt;2&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) La función \( F(x) \) sabiendo que \( F'(x) = f(x) \) y que su gráfica pasa por el punto \( (0, 2) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\)  &lt;u&gt;1&lt;/u&gt;  \(x^2\)+  &lt;u&gt;0&lt;/u&gt;  \(x\)+  &lt;u&gt;1&lt;/u&gt;  +  &lt;u&gt;1&lt;/u&gt;  \(e^{2x}\). (En caso que algún coeficiente no aparezca, escribe \(0\) en el cuadro. También tienes que escribir \(1\) o el coeficiente con el signo negativo en caso necesario).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Se consideran las funciones \( f \) y \( g \), definidas en \( \mathbb{R} \) de la siguiente forma:&lt;br/&gt;\[ f(x) = x^2, \quad g(x) = 4 - x^2 \]&lt;/p&gt;
-&lt;p&gt;a) Calcula los puntos de corte de las gráficas de \( f \) y \( g \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(P=\) (  &lt;u&gt;-sqrt{2}&lt;/u&gt;  ,  &lt;u&gt;2&lt;/u&gt;  ) y \(Q=\) (  &lt;u&gt;sqrt{2}&lt;/u&gt;  ,  &lt;u&gt;2&lt;/u&gt;  ). (En caso que salgan raíces no reducibles, escríbelas como sqrt{7}).&lt;/p&gt;
-&lt;p&gt;b) Representa sobre un mismo sistema de coordenadas cartesianas las gráficas de \( f \) y \( g \) y calcula el área de la región del plano delimitada por las gráficas de ambas funciones.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: El área vale  &lt;u&gt;16/3 sqrt{2}&lt;/u&gt;  \(u^2\).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se consideran las funciones \( f \) y \( g \), definidas en \( \mathbb{R} \) de la siguiente forma:&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;\[ f(x) = x^2, \quad g(x) = 4 - x^2 \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcula los puntos de corte de las gráficas de \( f \) y \( g \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(P=\) (  &lt;u&gt;-sqrt{2}&lt;/u&gt;  ,  &lt;u&gt;2&lt;/u&gt;  ) y \(Q=\) (  &lt;u&gt;sqrt{2}&lt;/u&gt;  ,  &lt;u&gt;2&lt;/u&gt;  ). (En caso que salgan raíces no reducibles, escríbelas como sqrt{7}).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Representa sobre un mismo sistema de coordenadas cartesianas las gráficas de \( f \) y \( g \) y calcula el área de la región del plano delimitada por las gráficas de ambas funciones.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: El área vale  &lt;u&gt;16/3 sqrt{2}&lt;/u&gt;  \(u^2\).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Dadas la parábola \( f(x) = 3x^2 \) y la recta \( g(x) = -3x + 6 \), se pide:&lt;/p&gt;
-&lt;p&gt;a) Representa sobre un mismo sistema de coordenadas cartesianas la gráfica de cada función.&lt;/p&gt;
-&lt;p&gt;Te debe quedar así:&lt;/p&gt;
-&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 594px; text-align: center;&quot;&gt;&lt;img src=&quot;int1.svg&quot; alt=&quot;&quot; width=&quot;594&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/img&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Alejandro M&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Realizado con Mathematica&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dadas la parábola \( f(x) = 3x^2 \) y la recta \( g(x) = -3x + 6 \), se pide:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Representa sobre un mismo sistema de coordenadas cartesianas la gráfica de cada función.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Te debe quedar así:&lt;/span&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 594px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;img src=&quot;int1.svg&quot; alt=&quot;&quot; width=&quot;594&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/img&gt;&lt;/span&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span class=&quot;author&quot;&gt;Alejandro M&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Realizado con Mathematica&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;b) Calcula el área del recinto plano limitado por las gráficas de \( f \) y \( g \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;:  &lt;u&gt;27/2&lt;/u&gt;  \(u^2\).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcula el área del recinto plano limitado por las gráficas de \( f \) y \( g \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;:  &lt;u&gt;27/2&lt;/u&gt;  \(u^2\).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Calcula el área limitada por las gráficas de la función \( f(x) = x^3 - 3x \) y la recta \( y = x \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;:  &lt;u&gt;8&lt;/u&gt;  \(u^2\).&lt;/p&gt;
-&lt;p&gt;Ayuda: representa en primer lugar ambas funciones y fíjate cómo cambia la región.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula el área limitada por las gráficas de la función \( f(x) = x^3 - 3x \) y la recta \( y = x \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;:  &lt;u&gt;8&lt;/u&gt;  \(u^2\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ayuda: representa en primer lugar ambas funciones y fíjate cómo cambia la región.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;La función de beneficios de una empresa, expresada en miles de euros, depende de la cantidad de producto fabricada, \( x \), expresada en miles de kg, según la función \( B(x) \). Si la función de beneficios marginales de la empresa (derivada de la función de beneficios) tiene la \[ B'(x) = 140 - \dfrac{180}{x+1} - 40x, \] se pide:&lt;/p&gt;
-&lt;p&gt;a) Determine la cantidad a producir por la empresa para maximizar los beneficios.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Hay que producir  &lt;u&gt;2000&lt;/u&gt;  kg.&lt;/p&gt;
-&lt;p&gt;b) Obtenga los intervalos de crecimiento y decrecimiento de la función de beneficios de la empresa.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La función es  &lt;u&gt;decre&lt;/u&gt;  ciente en \((0,\frac{1}{2})\cup (2,+\infty)\) y es   &lt;u&gt;cre&lt;/u&gt;  ciente en \((\frac{1}{2},0)\).&lt;/p&gt;
-&lt;p&gt;c) Obtenga la expresión de la función de beneficios \( B(x) \), si se considera que, si no se produce nada, el beneficio es nulo, es decir, \( B(0) = 0 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(B(x)=\)  &lt;u&gt;0&lt;/u&gt;  +  &lt;u&gt;140&lt;/u&gt;  \(x+\)  &lt;u&gt;-20&lt;/u&gt;  \(x^2+\)  &lt;u&gt;-180&lt;/u&gt;  \(\ln|x+1|\).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;La función de beneficios de una empresa, expresada en miles de euros, depende de la cantidad de producto fabricada, \( x \), expresada en miles de kg, según la función \( B(x) \). Si la función de beneficios marginales de la empresa (derivada de la función de beneficios) tiene la \[ B'(x) = 140 - \dfrac{180}{x+1} - 40x, \] se pide:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Determine la cantidad a producir por la empresa para maximizar los beneficios.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Hay que producir  &lt;u&gt;2000&lt;/u&gt;  kg.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Obtenga los intervalos de crecimiento y decrecimiento de la función de beneficios de la empresa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La función es  &lt;u&gt;decre&lt;/u&gt;  ciente en \((0,\frac{1}{2})\cup (2,+\infty)\) y es    &lt;u&gt;cre&lt;/u&gt;  ciente en \((\frac{1}{2},0)\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) Obtenga la expresión de la función de beneficios \( B(x) \), si se considera que, si no se produce nada, el beneficio es nulo, es decir, \( B(0) = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(B(x)=\)  &lt;u&gt;0&lt;/u&gt;  +  &lt;u&gt;140&lt;/u&gt;  \(x+\)  &lt;u&gt;-20&lt;/u&gt;  \(x^2+\)  &lt;u&gt;-180&lt;/u&gt;  \(\ln|x+1|\).&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="_id"></string>
@@ -10107,40 +10115,40 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                 <string role="key" value="content_w_resourcePaths"></string>
                 <unicode content="true" value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Dada la función \( f(x) = 2(x + e^{2x}) \), calcula:&lt;/p&gt;
-&lt;p&gt;a) Los puntos de inflexión de la función \( f \), en caso de que existan.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un punto de inflexión en el punto (&lt;strong&gt; &lt;u&gt;-&lt;/u&gt; &lt;/strong&gt;, &lt;u&gt;-&lt;/u&gt; ). (En caso que no exista, escribe un - en los cuadrados).&lt;/p&gt;
-&lt;p&gt;b) La ecuación de la recta tangente a la gráfica de \( f \) en el punto de abscisa \( x = 0 \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La recta tangente tiene ecuación \(y=\) &lt;u&gt;6&lt;/u&gt; \(x\)+ &lt;u&gt;2&lt;/u&gt; .&lt;/p&gt;
-&lt;p&gt;c) La función \( F(x) \) sabiendo que \( F'(x) = f(x) \) y que su gráfica pasa por el punto \( (0, 2) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) &lt;u&gt;1&lt;/u&gt; \(x^2\)+ &lt;u&gt;0&lt;/u&gt; \(x\)+ &lt;u&gt;1&lt;/u&gt; + &lt;u&gt;1&lt;/u&gt; \(e^{2x}\). (En caso que algún coeficiente no aparezca, escribe \(0\) en el cuadro. También tienes que escribir \(1\) o el coeficiente con el signo negativo en caso necesario).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dada la función \( f(x) = 2(x + e^{2x}) \), calcula:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Los puntos de inflexión de la función \( f \), en caso de que existan.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un punto de inflexión en el punto (&lt;strong&gt; &lt;u&gt;-&lt;/u&gt; &lt;/strong&gt;, &lt;u&gt;-&lt;/u&gt; ). (En caso que no exista, escribe un - en los cuadrados).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) La ecuación de la recta tangente a la gráfica de \( f \) en el punto de abscisa \( x = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La recta tangente tiene ecuación \(y=\) &lt;u&gt;6&lt;/u&gt; \(x\)+ &lt;u&gt;2&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) La función \( F(x) \) sabiendo que \( F'(x) = f(x) \) y que su gráfica pasa por el punto \( (0, 2) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) &lt;u&gt;1&lt;/u&gt; \(x^2\)+ &lt;u&gt;0&lt;/u&gt; \(x\)+ &lt;u&gt;1&lt;/u&gt; + &lt;u&gt;1&lt;/u&gt; \(e^{2x}\). (En caso que algún coeficiente no aparezca, escribe \(0\) en el cuadro. También tienes que escribir \(1\) o el coeficiente con el signo negativo en caso necesario).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Se consideran las funciones \( f \) y \( g \), definidas en \( \mathbb{R} \) de la siguiente forma:&lt;br /&gt;\[ f(x) = x^2, \quad g(x) = 4 - x^2 \]&lt;/p&gt;
-&lt;p&gt;a) Calcula los puntos de corte de las gráficas de \( f \) y \( g \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(P=\) ( &lt;u&gt;-sqrt{2}&lt;/u&gt; , &lt;u&gt;2&lt;/u&gt; ) y \(Q=\) ( &lt;u&gt;sqrt{2}&lt;/u&gt; , &lt;u&gt;2&lt;/u&gt; ). (En caso que salgan raíces no reducibles, escríbelas como sqrt{7}).&lt;/p&gt;
-&lt;p&gt;b) Representa sobre un mismo sistema de coordenadas cartesianas las gráficas de \( f \) y \( g \) y calcula el área de la región del plano delimitada por las gráficas de ambas funciones.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: El área vale &lt;u&gt;16/3 sqrt{2}&lt;/u&gt; \(u^2\).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se consideran las funciones \( f \) y \( g \), definidas en \( \mathbb{R} \) de la siguiente forma:&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;\[ f(x) = x^2, \quad g(x) = 4 - x^2 \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcula los puntos de corte de las gráficas de \( f \) y \( g \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(P=\) ( &lt;u&gt;-sqrt{2}&lt;/u&gt; , &lt;u&gt;2&lt;/u&gt; ) y \(Q=\) ( &lt;u&gt;sqrt{2}&lt;/u&gt; , &lt;u&gt;2&lt;/u&gt; ). (En caso que salgan raíces no reducibles, escríbelas como sqrt{7}).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Representa sobre un mismo sistema de coordenadas cartesianas las gráficas de \( f \) y \( g \) y calcula el área de la región del plano delimitada por las gráficas de ambas funciones.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: El área vale &lt;u&gt;16/3 sqrt{2}&lt;/u&gt; \(u^2\).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Dadas la parábola \( f(x) = 3x^2 \) y la recta \( g(x) = -3x + 6 \), se pide:&lt;/p&gt;
-&lt;p&gt;a) Representa sobre un mismo sistema de coordenadas cartesianas la gráfica de cada función.&lt;/p&gt;
-&lt;p&gt;Te debe quedar así:&lt;/p&gt;
-&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 594px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/int1.svg&quot; alt=&quot;&quot; width=&quot;594&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Alejandro M&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Realizado con Mathematica&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dadas la parábola \( f(x) = 3x^2 \) y la recta \( g(x) = -3x + 6 \), se pide:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Representa sobre un mismo sistema de coordenadas cartesianas la gráfica de cada función.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Te debe quedar así:&lt;/span&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 594px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;img src=&quot;resources/int1.svg&quot; alt=&quot;&quot; width=&quot;594&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/span&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span class=&quot;author&quot;&gt;Alejandro M&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Realizado con Mathematica&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;b) Calcula el área del recinto plano limitado por las gráficas de \( f \) y \( g \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: &lt;u&gt;27/2&lt;/u&gt; \(u^2\).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcula el área del recinto plano limitado por las gráficas de \( f \) y \( g \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: &lt;u&gt;27/2&lt;/u&gt; \(u^2\).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Calcula el área limitada por las gráficas de la función \( f(x) = x^3 - 3x \) y la recta \( y = x \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: &lt;u&gt;8&lt;/u&gt; \(u^2\).&lt;/p&gt;
-&lt;p&gt;Ayuda: representa en primer lugar ambas funciones y fíjate cómo cambia la región.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula el área limitada por las gráficas de la función \( f(x) = x^3 - 3x \) y la recta \( y = x \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: &lt;u&gt;8&lt;/u&gt; \(u^2\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ayuda: representa en primer lugar ambas funciones y fíjate cómo cambia la región.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;La función de beneficios de una empresa, expresada en miles de euros, depende de la cantidad de producto fabricada, \( x \), expresada en miles de kg, según la función \( B(x) \). Si la función de beneficios marginales de la empresa (derivada de la función de beneficios) tiene la \[ B'(x) = 140 - \dfrac{180}{x+1} - 40x, \] se pide:&lt;/p&gt;
-&lt;p&gt;a) Determine la cantidad a producir por la empresa para maximizar los beneficios.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Hay que producir &lt;u&gt;2000&lt;/u&gt; kg.&lt;/p&gt;
-&lt;p&gt;b) Obtenga los intervalos de crecimiento y decrecimiento de la función de beneficios de la empresa.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La función es &lt;u&gt;decre&lt;/u&gt; ciente en \((0,\frac{1}{2})\cup (2,+\infty)\) y es  &lt;u&gt;cre&lt;/u&gt; ciente en \((\frac{1}{2},0)\).&lt;/p&gt;
-&lt;p&gt;c) Obtenga la expresión de la función de beneficios \( B(x) \), si se considera que, si no se produce nada, el beneficio es nulo, es decir, \( B(0) = 0 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(B(x)=\) &lt;u&gt;0&lt;/u&gt; + &lt;u&gt;140&lt;/u&gt; \(x+\) &lt;u&gt;-20&lt;/u&gt; \(x^2+\) &lt;u&gt;-180&lt;/u&gt; \(\ln|x+1|\).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;La función de beneficios de una empresa, expresada en miles de euros, depende de la cantidad de producto fabricada, \( x \), expresada en miles de kg, según la función \( B(x) \). Si la función de beneficios marginales de la empresa (derivada de la función de beneficios) tiene la \[ B'(x) = 140 - \dfrac{180}{x+1} - 40x, \] se pide:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Determine la cantidad a producir por la empresa para maximizar los beneficios.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Hay que producir &lt;u&gt;2000&lt;/u&gt; kg.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Obtenga los intervalos de crecimiento y decrecimiento de la función de beneficios de la empresa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La función es &lt;u&gt;decre&lt;/u&gt; ciente en \((0,\frac{1}{2})\cup (2,+\infty)\) y es   &lt;u&gt;cre&lt;/u&gt; ciente en \((\frac{1}{2},0)\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) Obtenga la expresión de la función de beneficios \( B(x) \), si se considera que, si no se produce nada, el beneficio es nulo, es decir, \( B(0) = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(B(x)=\) &lt;u&gt;0&lt;/u&gt; + &lt;u&gt;140&lt;/u&gt; \(x+\) &lt;u&gt;-20&lt;/u&gt; \(x^2+\) &lt;u&gt;-180&lt;/u&gt; \(\ln|x+1|\).&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.ClozeField.persistenceVersion"></string>
@@ -10160,7 +10168,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="425"></int>
+                       <int value="437"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -10174,7 +10182,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="109_117.5"></unicode>
+                     <unicode value="109_117.6"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="206">
                       <dictionary>
@@ -10185,7 +10193,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                        <string role="key" value="_storageName"></string>
                        <string value="int1.svg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpYaQloE/int1.svg"></string>
+                       <string value="/var/folders/_n/bx___vx55dn9y9vs2zlcwv4m0000gn/T/tmpS4KfaP/int1.svg"></string>
                        <string role="key" value="checksum"></string>
                        <string value="d72ebfbc73a09170e96138609038ce6f"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10216,7 +10224,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="6"></int>
+                <int value="7"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="203"></reference>
                 <string role="key" value="parts"></string>
@@ -10224,9 +10232,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                  <tuple>
                   <unicode value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Dada la función \( f(x) = 2(x + e^{2x}) \), calcula:&lt;/p&gt;
-&lt;p&gt;a) Los puntos de inflexión de la función \( f \), en caso de que existan.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un punto de inflexión en el punto (&lt;strong&gt; "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dada la función \( f(x) = 2(x + e^{2x}) \), calcula:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Los puntos de inflexión de la función \( f \), en caso de que existan.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un punto de inflexión en el punto (&lt;strong&gt; "></unicode>
                   <unicode value="-"></unicode>
                  </tuple>
                  <tuple>
@@ -10234,9 +10242,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="-"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" ). (En caso que no exista, escribe un - en los cuadrados).&lt;/p&gt;
-&lt;p&gt;b) La ecuación de la recta tangente a la gráfica de \( f \) en el punto de abscisa \( x = 0 \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La recta tangente tiene ecuación \(y=\) "></unicode>
+                  <unicode value=" ). (En caso que no exista, escribe un - en los cuadrados).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) La ecuación de la recta tangente a la gráfica de \( f \) en el punto de abscisa \( x = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La recta tangente tiene ecuación \(y=\) "></unicode>
                   <unicode value="6"></unicode>
                  </tuple>
                  <tuple>
@@ -10244,9 +10252,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="2"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" .&lt;/p&gt;
-&lt;p&gt;c) La función \( F(x) \) sabiendo que \( F'(x) = f(x) \) y que su gráfica pasa por el punto \( (0, 2) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) "></unicode>
+                  <unicode value=" .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) La función \( F(x) \) sabiendo que \( F'(x) = f(x) \) y que su gráfica pasa por el punto \( (0, 2) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) "></unicode>
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
@@ -10262,11 +10270,11 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="1"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" \(e^{2x}\). (En caso que algún coeficiente no aparezca, escribe \(0\) en el cuadro. También tienes que escribir \(1\) o el coeficiente con el signo negativo en caso necesario).&lt;/p&gt;
+                  <unicode value=" \(e^{2x}\). (En caso que algún coeficiente no aparezca, escribe \(0\) en el cuadro. También tienes que escribir \(1\) o el coeficiente con el signo negativo en caso necesario).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Se consideran las funciones \( f \) y \( g \), definidas en \( \mathbb{R} \) de la siguiente forma:&lt;br/&gt;\[ f(x) = x^2, \quad g(x) = 4 - x^2 \]&lt;/p&gt;
-&lt;p&gt;a) Calcula los puntos de corte de las gráficas de \( f \) y \( g \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(P=\) ( "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se consideran las funciones \( f \) y \( g \), definidas en \( \mathbb{R} \) de la siguiente forma:&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;\[ f(x) = x^2, \quad g(x) = 4 - x^2 \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcula los puntos de corte de las gráficas de \( f \) y \( g \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(P=\) ( "></unicode>
                   <unicode value="-sqrt{2}"></unicode>
                  </tuple>
                  <tuple>
@@ -10282,54 +10290,54 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="2"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" ). (En caso que salgan raíces no reducibles, escríbelas como sqrt{7}).&lt;/p&gt;
-&lt;p&gt;b) Representa sobre un mismo sistema de coordenadas cartesianas las gráficas de \( f \) y \( g \) y calcula el área de la región del plano delimitada por las gráficas de ambas funciones.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: El área vale "></unicode>
+                  <unicode value=" ). (En caso que salgan raíces no reducibles, escríbelas como sqrt{7}).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Representa sobre un mismo sistema de coordenadas cartesianas las gráficas de \( f \) y \( g \) y calcula el área de la región del plano delimitada por las gráficas de ambas funciones.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: El área vale "></unicode>
                   <unicode value="16/3 sqrt{2}"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" \(u^2\).&lt;/p&gt;
+                  <unicode value=" \(u^2\).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Dadas la parábola \( f(x) = 3x^2 \) y la recta \( g(x) = -3x + 6 \), se pide:&lt;/p&gt;
-&lt;p&gt;a) Representa sobre un mismo sistema de coordenadas cartesianas la gráfica de cada función.&lt;/p&gt;
-&lt;p&gt;Te debe quedar así:&lt;/p&gt;
-&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 594px; text-align: center;&quot;&gt;&lt;img src=&quot;int1.svg&quot; alt=&quot;&quot; width=&quot;594&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/img&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Alejandro M&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Realizado con Mathematica&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dadas la parábola \( f(x) = 3x^2 \) y la recta \( g(x) = -3x + 6 \), se pide:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Representa sobre un mismo sistema de coordenadas cartesianas la gráfica de cada función.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Te debe quedar así:&lt;/span&gt;&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 594px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;img src=&quot;int1.svg&quot; alt=&quot;&quot; width=&quot;594&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/img&gt;&lt;/span&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span class=&quot;author&quot;&gt;Alejandro M&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Realizado con Mathematica&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;b) Calcula el área del recinto plano limitado por las gráficas de \( f \) y \( g \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcula el área del recinto plano limitado por las gráficas de \( f \) y \( g \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: "></unicode>
                   <unicode value="27/2"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" \(u^2\).&lt;/p&gt;
+                  <unicode value=" \(u^2\).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Calcula el área limitada por las gráficas de la función \( f(x) = x^3 - 3x \) y la recta \( y = x \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula el área limitada por las gráficas de la función \( f(x) = x^3 - 3x \) y la recta \( y = x \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: "></unicode>
                   <unicode value="8"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" \(u^2\).&lt;/p&gt;
-&lt;p&gt;Ayuda: representa en primer lugar ambas funciones y fíjate cómo cambia la región.&lt;/p&gt;
+                  <unicode value=" \(u^2\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ayuda: representa en primer lugar ambas funciones y fíjate cómo cambia la región.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;La función de beneficios de una empresa, expresada en miles de euros, depende de la cantidad de producto fabricada, \( x \), expresada en miles de kg, según la función \( B(x) \). Si la función de beneficios marginales de la empresa (derivada de la función de beneficios) tiene la \[ B'(x) = 140 - \dfrac{180}{x+1} - 40x, \] se pide:&lt;/p&gt;
-&lt;p&gt;a) Determine la cantidad a producir por la empresa para maximizar los beneficios.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Hay que producir "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;La función de beneficios de una empresa, expresada en miles de euros, depende de la cantidad de producto fabricada, \( x \), expresada en miles de kg, según la función \( B(x) \). Si la función de beneficios marginales de la empresa (derivada de la función de beneficios) tiene la \[ B'(x) = 140 - \dfrac{180}{x+1} - 40x, \] se pide:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Determine la cantidad a producir por la empresa para maximizar los beneficios.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Hay que producir "></unicode>
                   <unicode value="2000"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" kg.&lt;/p&gt;
-&lt;p&gt;b) Obtenga los intervalos de crecimiento y decrecimiento de la función de beneficios de la empresa.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La función es "></unicode>
+                  <unicode value=" kg.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Obtenga los intervalos de crecimiento y decrecimiento de la función de beneficios de la empresa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: La función es "></unicode>
                   <unicode value="decre"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" ciente en \((0,\frac{1}{2})\cup (2,+\infty)\) y es  "></unicode>
+                  <unicode value=" ciente en \((0,\frac{1}{2})\cup (2,+\infty)\) y es   "></unicode>
                   <unicode value="cre"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" ciente en \((\frac{1}{2},0)\).&lt;/p&gt;
-&lt;p&gt;c) Obtenga la expresión de la función de beneficios \( B(x) \), si se considera que, si no se produce nada, el beneficio es nulo, es decir, \( B(0) = 0 \).&lt;/p&gt;
-&lt;p&gt;Solución: \(B(x)=\) "></unicode>
+                  <unicode value=" ciente en \((\frac{1}{2},0)\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) Obtenga la expresión de la función de beneficios \( B(x) \), si se considera que, si no se produce nada, el beneficio es nulo, es decir, \( B(0) = 0 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(B(x)=\) "></unicode>
                   <unicode value="0"></unicode>
                  </tuple>
                  <tuple>
@@ -10345,7 +10353,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                   <unicode value="-180"></unicode>
                  </tuple>
                  <tuple>
-                  <unicode value=" \(\ln|x+1|\).&lt;/p&gt;
+                  <unicode value=" \(\ln|x+1|\).&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                   <string value=""></string>
@@ -11434,37 +11442,37 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_encodedContent"></string>
              <unicode value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Se considera la función \( f(x) = -x^2 + 6x + c \).&lt;/p&gt;
-&lt;p&gt;a) Calcule el valor del parámetro \( c \) para que la recta tangente a la gráfica de la función en el punto de abscisa \( x = 4 \) pase por el punto \( (0, 11) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(c=\)  &lt;u&gt;-5&lt;/u&gt;  .&lt;/p&gt;
-&lt;p&gt;b) Calcule el área de la región acotada limitada por las gráficas de \( f(x) = -x^2 + 6x - 5 \) y \( g(x) = 5 - x \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;:  &lt;u&gt;9/2&lt;/u&gt;  \(u^2\). (Solución en forma de fracción reducida).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \( f(x) = -x^2 + 6x + c \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcule el valor del parámetro \( c \) para que la recta tangente a la gráfica de la función en el punto de abscisa \( x = 4 \) pase por el punto \( (0, 11) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(c=\)  &lt;u&gt;-5&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcule el área de la región acotada limitada por las gráficas de \( f(x) = -x^2 + 6x - 5 \) y \( g(x) = 5 - x \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;:  &lt;u&gt;9/2&lt;/u&gt;  \(u^2\). (Solución en forma de fracción reducida).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Se considera la función \( f(x) = ax^3 + bx + 11 \).&lt;/p&gt;
-&lt;p&gt;a) Calcule los valores de \( a \) y \( b \) para que \( f(x) \) tenga un extremo en el punto \( (2, 5) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)    &lt;u&gt;3/8&lt;/u&gt;    y   \(b=\)  &lt;u&gt;-9/2&lt;/u&gt;  (en caso de ser decimal, escribe la fracción reducida).&lt;/p&gt;
-&lt;p&gt;b) Para \( a = \frac{3}{8} \) y \( b = -\frac{9}{2} \), estudie sus extremos relativos. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un máximo en el punto (  &lt;u&gt;-2&lt;/u&gt;  ,  &lt;u&gt;17&lt;/u&gt;  ) y un mínimo en el punto (  &lt;u&gt;2&lt;/u&gt;  ,  &lt;u&gt;5&lt;/u&gt;  ).&lt;/p&gt;
-&lt;p&gt;c) Calcule \(\displaystyle \int (x^2 + 3x + \frac{6}{x} - \frac{2}{x^2}) \, dx \)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\)  &lt;u&gt;1/3&lt;/u&gt;  \(x^3\)+  &lt;u&gt;3/2&lt;/u&gt;  \(x^2\)+  &lt;u&gt;0&lt;/u&gt;  \(x\)+  &lt;u&gt;6&lt;/u&gt;  \(\ln|x|\)+  &lt;u&gt;2&lt;/u&gt;  \(\dfrac{1}{x}\)+  &lt;u&gt;0&lt;/u&gt;  \(\dfrac{1}{x^2}+C\) (en la solución, si hay algún termino que no aparezca en el cálculo realizado, escribe un \(0\) en el recuadro).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \( f(x) = ax^3 + bx + 11 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcule los valores de \( a \) y \( b \) para que \( f(x) \) tenga un extremo en el punto \( (2, 5) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)    &lt;u&gt;3/8&lt;/u&gt;    y   \(b=\)  &lt;u&gt;-9/2&lt;/u&gt;  (en caso de ser decimal, escribe la fracción reducida).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Para \( a = \frac{3}{8} \) y \( b = -\frac{9}{2} \), estudie sus extremos relativos. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un máximo en el punto (  &lt;u&gt;-2&lt;/u&gt;  ,  &lt;u&gt;17&lt;/u&gt;  ) y un mínimo en el punto (  &lt;u&gt;2&lt;/u&gt;  ,  &lt;u&gt;5&lt;/u&gt;  ).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) Calcule \(\displaystyle \int (x^2 + 3x + \frac{6}{x} - \frac{2}{x^2}) \, dx \)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\)  &lt;u&gt;1/3&lt;/u&gt;  \(x^3\)+  &lt;u&gt;3/2&lt;/u&gt;  \(x^2\)+  &lt;u&gt;0&lt;/u&gt;  \(x\)+  &lt;u&gt;6&lt;/u&gt;  \(\ln|x|\)+  &lt;u&gt;2&lt;/u&gt;  \(\dfrac{1}{x}\)+  &lt;u&gt;0&lt;/u&gt;  \(\dfrac{1}{x^2}+C\) (en la solución, si hay algún termino que no aparezca en el cálculo realizado, escribe un \(0\) en el recuadro).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Calcula \(a\), \(b\), \(c\) y \(d\) sabiendo que la gráfica de la función \(f : \mathbb{R} \rightarrow \mathbb{R}\) definida por \[f(x)=ax^3 + bx^2 + cx + d\] tiene un punto de inflexión en \((0,4)\) y su recta normal en el punto \((1, 8)\) es paralela al eje de ordenadas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)  &lt;u&gt;-2&lt;/u&gt;  , \(b=\)  &lt;u&gt;0&lt;/u&gt;  , \(c=\)  &lt;u&gt;6&lt;/u&gt;  , \(d=\)  &lt;u&gt;4&lt;/u&gt;  ; entonces, \(f(x)=\)  &lt;u&gt;-2&lt;/u&gt;  \(x^3\)+  &lt;u&gt;0&lt;/u&gt;  \(x^2\)+  &lt;u&gt;6&lt;/u&gt;  \(x\)+  &lt;u&gt;4&lt;/u&gt;  .&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula \(a\), \(b\), \(c\) y \(d\) sabiendo que la gráfica de la función \(f : \mathbb{R} \rightarrow \mathbb{R}\) definida por \[f(x)=ax^3 + bx^2 + cx + d\] tiene un punto de inflexión en \((0,4)\) y su recta normal en el punto \((1, 8)\) es paralela al eje de ordenadas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)  &lt;u&gt;-2&lt;/u&gt;  , \(b=\)  &lt;u&gt;0&lt;/u&gt;  , \(c=\)  &lt;u&gt;6&lt;/u&gt;  , \(d=\)  &lt;u&gt;4&lt;/u&gt;  ; entonces, \(f(x)=\)  &lt;u&gt;-2&lt;/u&gt;  \(x^3\)+  &lt;u&gt;0&lt;/u&gt;  \(x^2\)+  &lt;u&gt;6&lt;/u&gt;  \(x\)+  &lt;u&gt;4&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Sabiendo que \(\displaystyle \lim_{x\rightarrow 0} \left(\dfrac{x+1}{\ln(x+1)}-\dfrac{a}{x}\right)\) es finito, calcula \(a\) y el valor del límite.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)  &lt;u&gt;1&lt;/u&gt;  y el límite es  &lt;u&gt;3/2&lt;/u&gt;  (en caso de ser decimal, escribirlo en forma de fracción reducida).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sabiendo que \(\displaystyle \lim_{x\rightarrow 0} \left(\dfrac{x+1}{\ln(x+1)}-\dfrac{a}{x}\right)\) es finito, calcula \(a\) y el valor del límite.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)  &lt;u&gt;1&lt;/u&gt;  y el límite es  &lt;u&gt;3/2&lt;/u&gt;  (en caso de ser decimal, escribirlo en forma de fracción reducida).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;Calcula el valor del límite siguiente: \[\lim_{x\rightarrow +\infty} \dfrac{x^2+3x+1}{e^x}\]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: el valor del límite es  &lt;u&gt;0&lt;/u&gt;  .&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula el valor del límite siguiente: \[\lim_{x\rightarrow +\infty} \dfrac{x^2+3x+1}{e^x}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: el valor del límite es  &lt;u&gt;0&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 6&lt;/h2&gt;
-&lt;p&gt;Una fábrica produce entre \(1\,000\) y \(6\,000\) bombillas al día. El coste diario de producción, en euros, de \( x \) bombillas viene dado por la función \( C(x) = 9\,000 + 0.08x + \frac{2\,000\,000}{x} \), con \( 1\,000 \leq x \leq 6\,000 \). ¿Cuántas bombillas deberían producirse diariamente para minimizar costes? ¿Cuál sería dicho coste?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Deben producirse  &lt;u&gt;5000&lt;/u&gt;  bombillas con un coste de  &lt;u&gt;9800&lt;/u&gt;  euros.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Una fábrica produce entre \(1\,000\) y \(6\,000\) bombillas al día. El coste diario de producción, en euros, de \( x \) bombillas viene dado por la función \( C(x) = 9\,000 + 0.08x + \frac{2\,000\,000}{x} \), con \( 1\,000 \leq x \leq 6\,000 \). ¿Cuántas bombillas deberían producirse diariamente para minimizar costes? ¿Cuál sería dicho coste?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Deben producirse  &lt;u&gt;5000&lt;/u&gt;  bombillas con un coste de  &lt;u&gt;9800&lt;/u&gt;  euros.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 7&lt;/h2&gt;
-&lt;p&gt;a) Determina el valor de \(a\) para que  sea continua en x=−1 la función&lt;/p&gt;
-&lt;p&gt;\[f(x)=\begin{cases} \dfrac{ax}{x-1} &amp; \text{si } x \leq -1 \\ x^3 - 3x^2 + 6x - 2 &amp; \text{si } x &gt; -1 \end{cases} \]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)  &lt;u&gt;-24&lt;/u&gt;  .&lt;/p&gt;
-&lt;p&gt;b) Calcula los coeficientes \(b\) y \(c\) de la función \(g(x) = x^3 + bx^2 + cx - 2\) para que \((1, 2)\) sea un punto de inflexión de \(g\).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(b=\)  &lt;u&gt;-3&lt;/u&gt;    y   \(c=\)  &lt;u&gt;6&lt;/u&gt;  .&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Determina el valor de \(a\) para que  sea continua en x=−1 la función&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;\[f(x)=\begin{cases} \dfrac{ax}{x-1} &amp; \text{si } x \leq -1 \\ x^3 - 3x^2 + 6x - 2 &amp; \text{si } x &gt; -1 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)  &lt;u&gt;-24&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcula los coeficientes \(b\) y \(c\) de la función \(g(x) = x^3 + bx^2 + cx - 2\) para que \((1, 2)\) sea un punto de inflexión de \(g\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(b=\)  &lt;u&gt;-3&lt;/u&gt;    y   \(c=\)  &lt;u&gt;6&lt;/u&gt;  .&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="_id"></string>
@@ -11493,37 +11501,37 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="content_w_resourcePaths"></string>
              <unicode content="true" value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Se considera la función \( f(x) = -x^2 + 6x + c \).&lt;/p&gt;
-&lt;p&gt;a) Calcule el valor del parámetro \( c \) para que la recta tangente a la gráfica de la función en el punto de abscisa \( x = 4 \) pase por el punto \( (0, 11) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(c=\) &lt;u&gt;-5&lt;/u&gt; .&lt;/p&gt;
-&lt;p&gt;b) Calcule el área de la región acotada limitada por las gráficas de \( f(x) = -x^2 + 6x - 5 \) y \( g(x) = 5 - x \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: &lt;u&gt;9/2&lt;/u&gt; \(u^2\). (Solución en forma de fracción reducida).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \( f(x) = -x^2 + 6x + c \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcule el valor del parámetro \( c \) para que la recta tangente a la gráfica de la función en el punto de abscisa \( x = 4 \) pase por el punto \( (0, 11) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(c=\) &lt;u&gt;-5&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcule el área de la región acotada limitada por las gráficas de \( f(x) = -x^2 + 6x - 5 \) y \( g(x) = 5 - x \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: &lt;u&gt;9/2&lt;/u&gt; \(u^2\). (Solución en forma de fracción reducida).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Se considera la función \( f(x) = ax^3 + bx + 11 \).&lt;/p&gt;
-&lt;p&gt;a) Calcule los valores de \( a \) y \( b \) para que \( f(x) \) tenga un extremo en el punto \( (2, 5) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)   &lt;u&gt;3/8&lt;/u&gt;   y   \(b=\) &lt;u&gt;-9/2&lt;/u&gt; (en caso de ser decimal, escribe la fracción reducida).&lt;/p&gt;
-&lt;p&gt;b) Para \( a = \frac{3}{8} \) y \( b = -\frac{9}{2} \), estudie sus extremos relativos. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un máximo en el punto ( &lt;u&gt;-2&lt;/u&gt; , &lt;u&gt;17&lt;/u&gt; ) y un mínimo en el punto ( &lt;u&gt;2&lt;/u&gt; , &lt;u&gt;5&lt;/u&gt; ).&lt;/p&gt;
-&lt;p&gt;c) Calcule \(\displaystyle \int (x^2 + 3x + \frac{6}{x} - \frac{2}{x^2}) \, dx \)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) &lt;u&gt;1/3&lt;/u&gt; \(x^3\)+ &lt;u&gt;3/2&lt;/u&gt; \(x^2\)+ &lt;u&gt;0&lt;/u&gt; \(x\)+ &lt;u&gt;6&lt;/u&gt; \(\ln|x|\)+ &lt;u&gt;2&lt;/u&gt; \(\dfrac{1}{x}\)+ &lt;u&gt;0&lt;/u&gt; \(\dfrac{1}{x^2}+C\) (en la solución, si hay algún termino que no aparezca en el cálculo realizado, escribe un \(0\) en el recuadro).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \( f(x) = ax^3 + bx + 11 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcule los valores de \( a \) y \( b \) para que \( f(x) \) tenga un extremo en el punto \( (2, 5) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)   &lt;u&gt;3/8&lt;/u&gt;   y   \(b=\) &lt;u&gt;-9/2&lt;/u&gt; (en caso de ser decimal, escribe la fracción reducida).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Para \( a = \frac{3}{8} \) y \( b = -\frac{9}{2} \), estudie sus extremos relativos. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un máximo en el punto ( &lt;u&gt;-2&lt;/u&gt; , &lt;u&gt;17&lt;/u&gt; ) y un mínimo en el punto ( &lt;u&gt;2&lt;/u&gt; , &lt;u&gt;5&lt;/u&gt; ).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) Calcule \(\displaystyle \int (x^2 + 3x + \frac{6}{x} - \frac{2}{x^2}) \, dx \)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) &lt;u&gt;1/3&lt;/u&gt; \(x^3\)+ &lt;u&gt;3/2&lt;/u&gt; \(x^2\)+ &lt;u&gt;0&lt;/u&gt; \(x\)+ &lt;u&gt;6&lt;/u&gt; \(\ln|x|\)+ &lt;u&gt;2&lt;/u&gt; \(\dfrac{1}{x}\)+ &lt;u&gt;0&lt;/u&gt; \(\dfrac{1}{x^2}+C\) (en la solución, si hay algún termino que no aparezca en el cálculo realizado, escribe un \(0\) en el recuadro).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Calcula \(a\), \(b\), \(c\) y \(d\) sabiendo que la gráfica de la función \(f : \mathbb{R} \rightarrow \mathbb{R}\) definida por \[f(x)=ax^3 + bx^2 + cx + d\] tiene un punto de inflexión en \((0,4)\) y su recta normal en el punto \((1, 8)\) es paralela al eje de ordenadas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) &lt;u&gt;-2&lt;/u&gt; , \(b=\) &lt;u&gt;0&lt;/u&gt; , \(c=\) &lt;u&gt;6&lt;/u&gt; , \(d=\) &lt;u&gt;4&lt;/u&gt; ; entonces, \(f(x)=\) &lt;u&gt;-2&lt;/u&gt; \(x^3\)+ &lt;u&gt;0&lt;/u&gt; \(x^2\)+ &lt;u&gt;6&lt;/u&gt; \(x\)+ &lt;u&gt;4&lt;/u&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula \(a\), \(b\), \(c\) y \(d\) sabiendo que la gráfica de la función \(f : \mathbb{R} \rightarrow \mathbb{R}\) definida por \[f(x)=ax^3 + bx^2 + cx + d\] tiene un punto de inflexión en \((0,4)\) y su recta normal en el punto \((1, 8)\) es paralela al eje de ordenadas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) &lt;u&gt;-2&lt;/u&gt; , \(b=\) &lt;u&gt;0&lt;/u&gt; , \(c=\) &lt;u&gt;6&lt;/u&gt; , \(d=\) &lt;u&gt;4&lt;/u&gt; ; entonces, \(f(x)=\) &lt;u&gt;-2&lt;/u&gt; \(x^3\)+ &lt;u&gt;0&lt;/u&gt; \(x^2\)+ &lt;u&gt;6&lt;/u&gt; \(x\)+ &lt;u&gt;4&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Sabiendo que \(\displaystyle \lim_{x\rightarrow 0} \left(\dfrac{x+1}{\ln(x+1)}-\dfrac{a}{x}\right)\) es finito, calcula \(a\) y el valor del límite.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) &lt;u&gt;1&lt;/u&gt; y el límite es &lt;u&gt;3/2&lt;/u&gt; (en caso de ser decimal, escribirlo en forma de fracción reducida).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sabiendo que \(\displaystyle \lim_{x\rightarrow 0} \left(\dfrac{x+1}{\ln(x+1)}-\dfrac{a}{x}\right)\) es finito, calcula \(a\) y el valor del límite.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) &lt;u&gt;1&lt;/u&gt; y el límite es &lt;u&gt;3/2&lt;/u&gt; (en caso de ser decimal, escribirlo en forma de fracción reducida).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;Calcula el valor del límite siguiente: \[\lim_{x\rightarrow +\infty} \dfrac{x^2+3x+1}{e^x}\]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: el valor del límite es &lt;u&gt;0&lt;/u&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula el valor del límite siguiente: \[\lim_{x\rightarrow +\infty} \dfrac{x^2+3x+1}{e^x}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: el valor del límite es &lt;u&gt;0&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 6&lt;/h2&gt;
-&lt;p&gt;Una fábrica produce entre \(1\,000\) y \(6\,000\) bombillas al día. El coste diario de producción, en euros, de \( x \) bombillas viene dado por la función \( C(x) = 9\,000 + 0.08x + \frac{2\,000\,000}{x} \), con \( 1\,000 \leq x \leq 6\,000 \). ¿Cuántas bombillas deberían producirse diariamente para minimizar costes? ¿Cuál sería dicho coste?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Deben producirse &lt;u&gt;5000&lt;/u&gt; bombillas con un coste de &lt;u&gt;9800&lt;/u&gt; euros.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Una fábrica produce entre \(1\,000\) y \(6\,000\) bombillas al día. El coste diario de producción, en euros, de \( x \) bombillas viene dado por la función \( C(x) = 9\,000 + 0.08x + \frac{2\,000\,000}{x} \), con \( 1\,000 \leq x \leq 6\,000 \). ¿Cuántas bombillas deberían producirse diariamente para minimizar costes? ¿Cuál sería dicho coste?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Deben producirse &lt;u&gt;5000&lt;/u&gt; bombillas con un coste de &lt;u&gt;9800&lt;/u&gt; euros.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 7&lt;/h2&gt;
-&lt;p&gt;a) Determina el valor de \(a\) para que  sea continua en x=−1 la función&lt;/p&gt;
-&lt;p&gt;\[f(x)=\begin{cases} \dfrac{ax}{x-1} &amp;amp; \text{si } x \leq -1 \\ x^3 - 3x^2 + 6x - 2 &amp;amp; \text{si } x &amp;gt; -1 \end{cases} \]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) &lt;u&gt;-24&lt;/u&gt; .&lt;/p&gt;
-&lt;p&gt;b) Calcula los coeficientes \(b\) y \(c\) de la función \(g(x) = x^3 + bx^2 + cx - 2\) para que \((1, 2)\) sea un punto de inflexión de \(g\).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(b=\) &lt;u&gt;-3&lt;/u&gt;   y   \(c=\) &lt;u&gt;6&lt;/u&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Determina el valor de \(a\) para que  sea continua en x=−1 la función&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;\[f(x)=\begin{cases} \dfrac{ax}{x-1} &amp;amp; \text{si } x \leq -1 \\ x^3 - 3x^2 + 6x - 2 &amp;amp; \text{si } x &amp;gt; -1 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) &lt;u&gt;-24&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcula los coeficientes \(b\) y \(c\) de la función \(g(x) = x^3 + bx^2 + cx - 2\) para que \((1, 2)\) sea un punto de inflexión de \(g\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(b=\) &lt;u&gt;-3&lt;/u&gt;   y   \(c=\) &lt;u&gt;6&lt;/u&gt; .&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.ClozeField.persistenceVersion"></string>
@@ -11554,23 +11562,23 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
               <tuple>
                <unicode value="&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Ejercicio 1&lt;/h2&gt;
-&lt;p&gt;Se considera la función \( f(x) = -x^2 + 6x + c \).&lt;/p&gt;
-&lt;p&gt;a) Calcule el valor del parámetro \( c \) para que la recta tangente a la gráfica de la función en el punto de abscisa \( x = 4 \) pase por el punto \( (0, 11) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(c=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \( f(x) = -x^2 + 6x + c \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcule el valor del parámetro \( c \) para que la recta tangente a la gráfica de la función en el punto de abscisa \( x = 4 \) pase por el punto \( (0, 11) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(c=\) "></unicode>
                <unicode value="-5"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" .&lt;/p&gt;
-&lt;p&gt;b) Calcule el área de la región acotada limitada por las gráficas de \( f(x) = -x^2 + 6x - 5 \) y \( g(x) = 5 - x \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: "></unicode>
+               <unicode value=" .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcule el área de la región acotada limitada por las gráficas de \( f(x) = -x^2 + 6x - 5 \) y \( g(x) = 5 - x \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: "></unicode>
                <unicode value="9/2"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" \(u^2\). (Solución en forma de fracción reducida).&lt;/p&gt;
+               <unicode value=" \(u^2\). (Solución en forma de fracción reducida).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 2&lt;/h2&gt;
-&lt;p&gt;Se considera la función \( f(x) = ax^3 + bx + 11 \).&lt;/p&gt;
-&lt;p&gt;a) Calcule los valores de \( a \) y \( b \) para que \( f(x) \) tenga un extremo en el punto \( (2, 5) \).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)   "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Se considera la función \( f(x) = ax^3 + bx + 11 \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Calcule los valores de \( a \) y \( b \) para que \( f(x) \) tenga un extremo en el punto \( (2, 5) \).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\)   "></unicode>
                <unicode value="3/8"></unicode>
               </tuple>
               <tuple>
@@ -11578,9 +11586,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="-9/2"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" (en caso de ser decimal, escribe la fracción reducida).&lt;/p&gt;
-&lt;p&gt;b) Para \( a = \frac{3}{8} \) y \( b = -\frac{9}{2} \), estudie sus extremos relativos. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un máximo en el punto ( "></unicode>
+               <unicode value=" (en caso de ser decimal, escribe la fracción reducida).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Para \( a = \frac{3}{8} \) y \( b = -\frac{9}{2} \), estudie sus extremos relativos. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Tiene un máximo en el punto ( "></unicode>
                <unicode value="-2"></unicode>
               </tuple>
               <tuple>
@@ -11596,9 +11604,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="5"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" ).&lt;/p&gt;
-&lt;p&gt;c) Calcule \(\displaystyle \int (x^2 + 3x + \frac{6}{x} - \frac{2}{x^2}) \, dx \)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) "></unicode>
+               <unicode value=" ).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;c) Calcule \(\displaystyle \int (x^2 + 3x + \frac{6}{x} - \frac{2}{x^2}) \, dx \)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(F(x)=\) "></unicode>
                <unicode value="1/3"></unicode>
               </tuple>
               <tuple>
@@ -11622,10 +11630,10 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="0"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" \(\dfrac{1}{x^2}+C\) (en la solución, si hay algún termino que no aparezca en el cálculo realizado, escribe un \(0\) en el recuadro).&lt;/p&gt;
+               <unicode value=" \(\dfrac{1}{x^2}+C\) (en la solución, si hay algún termino que no aparezca en el cálculo realizado, escribe un \(0\) en el recuadro).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 3&lt;/h2&gt;
-&lt;p&gt;Calcula \(a\), \(b\), \(c\) y \(d\) sabiendo que la gráfica de la función \(f : \mathbb{R} \rightarrow \mathbb{R}\) definida por \[f(x)=ax^3 + bx^2 + cx + d\] tiene un punto de inflexión en \((0,4)\) y su recta normal en el punto \((1, 8)\) es paralela al eje de ordenadas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula \(a\), \(b\), \(c\) y \(d\) sabiendo que la gráfica de la función \(f : \mathbb{R} \rightarrow \mathbb{R}\) definida por \[f(x)=ax^3 + bx^2 + cx + d\] tiene un punto de inflexión en \((0,4)\) y su recta normal en el punto \((1, 8)\) es paralela al eje de ordenadas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) "></unicode>
                <unicode value="-2"></unicode>
               </tuple>
               <tuple>
@@ -11657,10 +11665,10 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="4"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" .&lt;/p&gt;
+               <unicode value=" .&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 4&lt;/h2&gt;
-&lt;p&gt;Sabiendo que \(\displaystyle \lim_{x\rightarrow 0} \left(\dfrac{x+1}{\ln(x+1)}-\dfrac{a}{x}\right)\) es finito, calcula \(a\) y el valor del límite.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Sabiendo que \(\displaystyle \lim_{x\rightarrow 0} \left(\dfrac{x+1}{\ln(x+1)}-\dfrac{a}{x}\right)\) es finito, calcula \(a\) y el valor del límite.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) "></unicode>
                <unicode value="1"></unicode>
               </tuple>
               <tuple>
@@ -11668,17 +11676,17 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="3/2"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" (en caso de ser decimal, escribirlo en forma de fracción reducida).&lt;/p&gt;
+               <unicode value=" (en caso de ser decimal, escribirlo en forma de fracción reducida).&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 5&lt;/h2&gt;
-&lt;p&gt;Calcula el valor del límite siguiente: \[\lim_{x\rightarrow +\infty} \dfrac{x^2+3x+1}{e^x}\]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: el valor del límite es "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Calcula el valor del límite siguiente: \[\lim_{x\rightarrow +\infty} \dfrac{x^2+3x+1}{e^x}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: el valor del límite es "></unicode>
                <unicode value="0"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" .&lt;/p&gt;
+               <unicode value=" .&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 6&lt;/h2&gt;
-&lt;p&gt;Una fábrica produce entre \(1\,000\) y \(6\,000\) bombillas al día. El coste diario de producción, en euros, de \( x \) bombillas viene dado por la función \( C(x) = 9\,000 + 0.08x + \frac{2\,000\,000}{x} \), con \( 1\,000 \leq x \leq 6\,000 \). ¿Cuántas bombillas deberían producirse diariamente para minimizar costes? ¿Cuál sería dicho coste?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Deben producirse "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Una fábrica produce entre \(1\,000\) y \(6\,000\) bombillas al día. El coste diario de producción, en euros, de \( x \) bombillas viene dado por la función \( C(x) = 9\,000 + 0.08x + \frac{2\,000\,000}{x} \), con \( 1\,000 \leq x \leq 6\,000 \). ¿Cuántas bombillas deberían producirse diariamente para minimizar costes? ¿Cuál sería dicho coste?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: Deben producirse "></unicode>
                <unicode value="5000"></unicode>
               </tuple>
               <tuple>
@@ -11686,17 +11694,17 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="9800"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" euros.&lt;/p&gt;
+               <unicode value=" euros.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Ejercicio 7&lt;/h2&gt;
-&lt;p&gt;a) Determina el valor de \(a\) para que  sea continua en x=−1 la función&lt;/p&gt;
-&lt;p&gt;\[f(x)=\begin{cases} \dfrac{ax}{x-1} &amp; \text{si } x \leq -1 \\ x^3 - 3x^2 + 6x - 2 &amp; \text{si } x &gt; -1 \end{cases} \]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) "></unicode>
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;a) Determina el valor de \(a\) para que  sea continua en x=−1 la función&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;\[f(x)=\begin{cases} \dfrac{ax}{x-1} &amp; \text{si } x \leq -1 \\ x^3 - 3x^2 + 6x - 2 &amp; \text{si } x &gt; -1 \end{cases} \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(a=\) "></unicode>
                <unicode value="-24"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" .&lt;/p&gt;
-&lt;p&gt;b) Calcula los coeficientes \(b\) y \(c\) de la función \(g(x) = x^3 + bx^2 + cx - 2\) para que \((1, 2)\) sea un punto de inflexión de \(g\).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(b=\) "></unicode>
+               <unicode value=" .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;b) Calcula los coeficientes \(b\) y \(c\) de la función \(g(x) = x^3 + bx^2 + cx - 2\) para que \((1, 2)\) sea un punto de inflexión de \(g\).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solución&lt;/strong&gt;: \(b=\) "></unicode>
                <unicode value="-3"></unicode>
               </tuple>
               <tuple>
@@ -11704,7 +11712,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <unicode value="6"></unicode>
               </tuple>
               <tuple>
-               <unicode value=" .&lt;/p&gt;
+               <unicode value=" .&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;"></unicode>
                <string value=""></string>
@@ -11925,7 +11933,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="155"></reference>
+  <reference key="15"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
